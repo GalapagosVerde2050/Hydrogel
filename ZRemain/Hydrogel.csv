@@ -1,0 +1,389 @@
+"","...1","...2","CODIGO","Species","Island","Fruts","Productivity","IFW","Treatment","date","Season","Zona","Sitio","HMAX"
+"1",193,193,7093,"Solanum lycopersicum","Santa Cruz",23,4.035,0.175434783,"Hidrogel",2018-09-02,"Dry","Transición","Finca  Wilson Cabrera",320
+"2",195,195,7094,"Solanum lycopersicum","Santa Cruz",20,3.671,0.18355,"Hidrogel",2018-02-15,"Wet","Transición","Finca  Wilson Cabrera",276
+"3",196,196,7095,"Solanum lycopersicum","Santa Cruz",16,2.393,0.1495625,"Hidrogel",2018-12-02,"Dry","Transición","Finca  Wilson Cabrera",328
+"4",197,197,7096,"Solanum lycopersicum","Santa Cruz",27,4.714,0.174592593,"Hidrogel",2018-09-02,"Dry","Transición","Finca  Wilson Cabrera",280
+"5",198,198,7097,"Solanum lycopersicum","Santa Cruz",23,4.218,0.183391304,"Hidrogel",2018-12-02,"Dry","Transición","Finca  Wilson Cabrera",352
+"6",199,199,7097,"Solanum lycopersicum","Santa Cruz",23,4.218,0.183391304,"Control",2018-12-02,"Dry","Transición","Finca  Wilson Cabrera",352
+"7",200,200,7098,"Solanum lycopersicum","Santa Cruz",23,3.696,0.160695652,"Hidrogel",2018-12-02,"Dry","Transición","Finca  Wilson Cabrera",326
+"8",201,201,7099,"Solanum lycopersicum","Santa Cruz",27,3.996,0.148,"Hidrogel",2018-09-02,"Dry","Transición","Finca  Wilson Cabrera",328
+"9",202,202,7100,"Solanum lycopersicum","Santa Cruz",19,3.352,0.176421053,"Hidrogel",2018-12-02,"Dry","Transición","Finca  Wilson Cabrera",342
+"10",203,203,7101,"Solanum lycopersicum","Santa Cruz",29,4.503,0.155275862,"Hidrogel",2018-12-02,"Dry","Transición","Finca  Wilson Cabrera",349
+"11",204,204,7102,"Solanum lycopersicum","Santa Cruz",21,1.952,0.092952381,"Hidrogel",2018-12-02,"Dry","Transición","Finca  Wilson Cabrera",266
+"12",205,205,7103,"Solanum lycopersicum","Santa Cruz",33,3.187,0.096575758,"Control",2018-12-02,"Dry","Transición","Finca  Wilson Cabrera",256
+"13",206,206,7103,"Solanum lycopersicum","Santa Cruz",33,3.187,0.096575758,"Hidrogel",2018-12-02,"Dry","Transición","Finca  Wilson Cabrera",256
+"14",207,207,7104,"Solanum lycopersicum","Santa Cruz",36,3.942,0.1095,"Control",2018-09-02,"Dry","Transición","Finca  Wilson Cabrera",252
+"15",208,208,7105,"Solanum lycopersicum","Santa Cruz",29,3.718,0.128206897,"Control",2018-12-02,"Dry","Transición","Finca  Wilson Cabrera",221
+"16",209,209,7106,"Solanum lycopersicum","Santa Cruz",26,2.767,0.106423077,"Control",2018-09-02,"Dry","Transición","Finca  Wilson Cabrera",214
+"17",210,210,7107,"Solanum lycopersicum","Santa Cruz",21,2.142,0.102,"Control",2018-12-02,"Dry","Transición","Finca  Wilson Cabrera",211
+"18",211,211,7108,"Solanum lycopersicum","Santa Cruz",20,2.282,0.1141,"Control",2018-09-02,"Dry","Transición","Finca  Wilson Cabrera",210
+"19",212,212,7109,"Solanum lycopersicum","Santa Cruz",22,3.624,0.164727273,"Control",2018-09-02,"Dry","Transición","Finca  Wilson Cabrera",333
+"20",213,213,7110,"Solanum lycopersicum","Santa Cruz",21,2.493,0.118714286,"Control",2018-12-02,"Dry","Transición","Finca  Wilson Cabrera",209
+"21",214,214,7111,"Solanum lycopersicum","Santa Cruz",32,3.786,0.1183125,"Control",2018-09-02,"Dry","Transición","Finca  Wilson Cabrera",230
+"22",215,215,7112,"Solanum lycopersicum","Santa Cruz",31,4.078,0.131548387,"Control",2018-12-02,"Dry","Transición","Finca  Wilson Cabrera",257
+"23",216,216,7113,"Solanum lycopersicum","Santa Cruz",31,3.115,0.100483871,"Control",2018-12-02,"Dry","Transición","Finca  Wilson Cabrera",243
+"24",217,217,7114,"Solanum lycopersicum","Santa Cruz",22,2.348,0.106727273,"Control",2018-09-02,"Dry","Transición","Finca  Wilson Cabrera",183
+"25",218,218,7114,"Solanum lycopersicum","Santa Cruz",22,2.348,0.106727273,"Hidrogel",2018-09-02,"Dry","Transición","Finca  Wilson Cabrera",183
+"26",219,219,7115,"Solanum lycopersicum","Santa Cruz",22,1.769,0.080409091,"Control",2018-12-02,"Dry","Transición","Finca  Wilson Cabrera",235
+"27",220,220,7116,"Solanum lycopersicum","Santa Cruz",15,1.645,0.109666667,"Control",2018-12-02,"Dry","Transición","Finca  Wilson Cabrera",243
+"28",221,221,7117,"Solanum lycopersicum","Santa Cruz",24,1.986,0.08275,"Control",2018-12-02,"Dry","Transición","Finca  Wilson Cabrera",248
+"29",222,222,7118,"Solanum lycopersicum","Santa Cruz",24,2.463,0.102625,"Control",2018-12-02,"Dry","Transición","Finca  Wilson Cabrera",249
+"30",223,223,7118,"Solanum lycopersicum","Santa Cruz",24,2.463,0.102625,"Hidrogel",2018-12-02,"Dry","Transición","Finca  Wilson Cabrera",249
+"31",224,224,7119,"Solanum lycopersicum","Santa Cruz",28,2.002,0.0715,"Hidrogel",2018-12-02,"Dry","Transición","Finca  Wilson Cabrera",248
+"32",225,225,7119,"Solanum lycopersicum","Santa Cruz",28,2.002,0.0715,"Control",2018-12-02,"Dry","Transición","Finca  Wilson Cabrera",248
+"33",226,226,7120,"Solanum lycopersicum","Santa Cruz",21,1.917,0.091285714,"Control",2018-09-02,"Dry","Transición","Finca  Wilson Cabrera",225
+"34",227,227,7120,"Solanum lycopersicum","Santa Cruz",21,1.917,0.091285714,"Hidrogel",2018-09-02,"Dry","Transición","Finca  Wilson Cabrera",225
+"35",228,228,7121,"Solanum lycopersicum","Santa Cruz",19,1.765,0.092894737,"Hidrogel",2018-12-02,"Dry","Transición","Finca  Wilson Cabrera",248
+"36",229,229,7121,"Solanum lycopersicum","Santa Cruz",19,1.765,0.092894737,"Control",2018-12-02,"Dry","Transición","Finca  Wilson Cabrera",248
+"37",230,230,7122,"Solanum lycopersicum","Santa Cruz",41,5.429,0.132414634,"Control",2018-12-02,"Dry","Transición","Finca  Wilson Cabrera",263
+"38",231,231,7122,"Solanum lycopersicum","Santa Cruz",41,5.429,0.132414634,"Hidrogel",2018-12-02,"Dry","Transición","Finca  Wilson Cabrera",263
+"39",232,232,7123,"Solanum lycopersicum","Santa Cruz",24,2.299,0.095791667,"Control",2018-12-02,"Dry","Transición","Finca  Wilson Cabrera",242
+"40",233,233,7173,"Solanum lycopersicum","Santa Cruz",1,0.095,0.095,"Control",2018-02-15,"Wet","Litoral","Centro",13
+"41",235,235,7197,"Capsicum annuum","Santa Cruz",33,3.316,0.100484848,"Hidrogel",2018-09-03,"Dry","Transición","Finca  Wilson Cabrera",166
+"42",255,255,7217,"Capsicum annuum","Santa Cruz",49,4.699,0.095897959,"Hidrogel",2018-09-03,"Dry","Transición","Finca  Wilson Cabrera",214
+"43",256,256,7218,"Capsicum annuum","Santa Cruz",50,4.82,0.0964,"Hidrogel",2018-09-03,"Dry","Transición","Finca  Wilson Cabrera",215
+"44",257,257,7219,"Capsicum annuum","Santa Cruz",32,4.261,0.13315625,"Hidrogel",2018-09-03,"Dry","Transición","Finca  Wilson Cabrera",210
+"45",258,258,7220,"Capsicum annuum","Santa Cruz",52,4.697,0.090326923,"Hidrogel",2018-09-03,"Dry","Transición","Finca  Wilson Cabrera",210
+"46",259,259,7221,"Capsicum annuum","Santa Cruz",46,4.213,0.091586957,"Hidrogel",2018-09-03,"Dry","Transición","Finca  Wilson Cabrera",190
+"47",260,260,7222,"Capsicum annuum","Santa Cruz",46,4.165,0.090543478,"Hidrogel",2018-09-03,"Dry","Transición","Finca  Wilson Cabrera",200
+"48",261,261,7223,"Capsicum annuum","Santa Cruz",49,4.293,0.087612245,"Hidrogel",2018-09-03,"Dry","Transición","Finca  Wilson Cabrera",210
+"49",262,262,7224,"Capsicum annuum","Santa Cruz",63,6.081,0.09652381,"Hidrogel",2018-09-03,"Dry","Transición","Finca  Wilson Cabrera",250
+"50",263,263,7225,"Capsicum annuum","Santa Cruz",50,4.533,0.09066,"Hidrogel",2018-09-03,"Dry","Transición","Finca  Wilson Cabrera",230
+"51",264,264,7226,"Capsicum annuum","Santa Cruz",44,4.312,0.098,"Hidrogel",2018-09-03,"Dry","Transición","Finca  Wilson Cabrera",225
+"52",265,265,7227,"Capsicum annuum","Santa Cruz",39,3.972,0.101846154,"Control",2018-09-03,"Dry","Transición","Finca  Wilson Cabrera",225
+"53",266,266,7227,"Capsicum annuum","Santa Cruz",39,3.972,0.101846154,"Hidrogel",2018-09-03,"Dry","Transición","Finca  Wilson Cabrera",225
+"54",267,267,7228,"Capsicum annuum","Santa Cruz",18,1.947,0.108166667,"Control",2018-09-03,"Dry","Transición","Finca  Wilson Cabrera",220
+"55",268,268,7228,"Capsicum annuum","Santa Cruz",18,1.947,0.108166667,"Hidrogel",2018-09-03,"Dry","Transición","Finca  Wilson Cabrera",220
+"56",269,269,7229,"Capsicum annuum","Santa Cruz",53,5.606,0.105773585,"Control",2018-09-03,"Dry","Transición","Finca  Wilson Cabrera",255
+"57",270,270,7229,"Capsicum annuum","Santa Cruz",53,5.606,0.105773585,"Hidrogel",2018-09-03,"Dry","Transición","Finca  Wilson Cabrera",255
+"58",271,271,7230,"Capsicum annuum","Santa Cruz",27,3.279,0.121444444,"Control",2018-09-03,"Dry","Transición","Finca  Wilson Cabrera",240
+"59",272,272,7230,"Capsicum annuum","Santa Cruz",27,3.279,0.121444444,"Hidrogel",2018-09-03,"Dry","Transición","Finca  Wilson Cabrera",240
+"60",273,273,7231,"Capsicum annuum","Santa Cruz",30,3.453,0.1151,"Control",2018-09-03,"Dry","Transición","Finca  Wilson Cabrera",230
+"61",274,274,7231,"Capsicum annuum","Santa Cruz",30,3.453,0.1151,"Hidrogel",2018-09-03,"Dry","Transición","Finca  Wilson Cabrera",230
+"62",275,275,7232,"Capsicum annuum","Santa Cruz",22,2.433,0.110590909,"Control",2018-09-03,"Dry","Transición","Finca  Wilson Cabrera",235
+"63",276,276,7232,"Capsicum annuum","Santa Cruz",22,2.433,0.110590909,"Hidrogel",2018-09-03,"Dry","Transición","Finca  Wilson Cabrera",235
+"64",277,277,7233,"Capsicum annuum","Santa Cruz",39,4.644,0.119076923,"Control",2018-09-03,"Dry","Transición","Finca  Wilson Cabrera",240
+"65",278,278,7233,"Capsicum annuum","Santa Cruz",39,4.644,0.119076923,"Hidrogel",2018-09-03,"Dry","Transición","Finca  Wilson Cabrera",240
+"66",279,279,7234,"Capsicum annuum","Santa Cruz",32,3.203,0.10009375,"Control",2018-09-03,"Dry","Transición","Finca  Wilson Cabrera",260
+"67",280,280,7234,"Capsicum annuum","Santa Cruz",32,3.203,0.10009375,"Hidrogel",2018-09-03,"Dry","Transición","Finca  Wilson Cabrera",260
+"68",281,281,7235,"Capsicum annuum","Santa Cruz",30,3.208,0.106933333,"Control",2018-09-03,"Dry","Transición","Finca  Wilson Cabrera",247
+"69",282,282,7235,"Capsicum annuum","Santa Cruz",30,3.208,0.106933333,"Hidrogel",2018-09-03,"Dry","Transición","Finca  Wilson Cabrera",247
+"70",283,283,7236,"Capsicum annuum","Santa Cruz",47,4.907,0.104404255,"Control",2018-09-03,"Dry","Transición","Finca  Wilson Cabrera",230
+"71",284,284,7236,"Capsicum annuum","Santa Cruz",47,4.907,0.104404255,"Hidrogel",2018-09-03,"Dry","Transición","Finca  Wilson Cabrera",230
+"72",285,285,7237,"Capsicum annuum","Santa Cruz",26,3.006,0.115615385,"Control",2018-09-03,"Dry","Transición","Finca  Wilson Cabrera",220
+"73",286,286,7237,"Capsicum annuum","Santa Cruz",26,3.006,0.115615385,"Hidrogel",2018-09-03,"Dry","Transición","Finca  Wilson Cabrera",220
+"74",287,287,7238,"Capsicum annuum","Santa Cruz",42,4.612,0.109809524,"Control",2018-09-03,"Dry","Transición","Finca  Wilson Cabrera",225
+"75",288,288,7238,"Capsicum annuum","Santa Cruz",42,4.612,0.109809524,"Hidrogel",2018-09-03,"Dry","Transición","Finca  Wilson Cabrera",225
+"76",289,289,7239,"Capsicum annuum","Santa Cruz",25,2.861,0.11444,"Control",2018-09-03,"Dry","Transición","Finca  Wilson Cabrera",210
+"77",290,290,7239,"Capsicum annuum","Santa Cruz",25,2.861,0.11444,"Hidrogel",2018-09-03,"Dry","Transición","Finca  Wilson Cabrera",210
+"78",291,291,7240,"Capsicum annuum","Santa Cruz",39,4.701,0.120538462,"Control",2018-09-03,"Dry","Transición","Finca  Wilson Cabrera",215
+"79",292,292,7240,"Capsicum annuum","Santa Cruz",39,4.701,0.120538462,"Hidrogel",2018-09-03,"Dry","Transición","Finca  Wilson Cabrera",215
+"80",293,293,7241,"Capsicum annuum","Santa Cruz",35,4.285,0.122428571,"Control",2018-09-03,"Dry","Transición","Finca  Wilson Cabrera",224
+"81",294,294,7241,"Capsicum annuum","Santa Cruz",35,4.285,0.122428571,"Hidrogel",2018-09-03,"Dry","Transición","Finca  Wilson Cabrera",224
+"82",295,295,7242,"Capsicum annuum","Santa Cruz",52,5.276,0.101461538,"Control",2018-09-03,"Dry","Transición","Finca  Wilson Cabrera",207
+"83",296,296,7242,"Capsicum annuum","Santa Cruz",52,5.276,0.101461538,"Hidrogel",2018-09-03,"Dry","Transición","Finca  Wilson Cabrera",207
+"84",297,297,7243,"Capsicum annuum","Santa Cruz",39,3.852,0.098769231,"Control",2018-09-03,"Dry","Transición","Finca  Wilson Cabrera",225
+"85",298,298,7243,"Capsicum annuum","Santa Cruz",39,3.852,0.098769231,"Hidrogel",2018-09-03,"Dry","Transición","Finca  Wilson Cabrera",225
+"86",299,299,7244,"Capsicum annuum","Santa Cruz",33,3.176,0.096242424,"Control",2018-09-02,"Dry","Transición","Finca  Wilson Cabrera",210
+"87",300,300,7244,"Capsicum annuum","Santa Cruz",33,3.176,0.096242424,"Hidrogel",2018-09-02,"Dry","Transición","Finca  Wilson Cabrera",210
+"88",301,301,7245,"Capsicum annuum","Santa Cruz",15,1.369,0.091266667,"Control",2018-09-03,"Dry","Transición","Finca  Wilson Cabrera",209
+"89",302,302,7245,"Capsicum annuum","Santa Cruz",15,1.369,0.091266667,"Hidrogel",2018-09-03,"Dry","Transición","Finca  Wilson Cabrera",209
+"90",303,303,7247,"Brassica oleracea","Santa Cruz",1,0.484,0.484,"Hidrogel",2018-12-02,"Dry","Transición","Finca Nixon López (Cascajo)",46
+"91",304,304,7249,"Brassica oleracea","Santa Cruz",1,0.228,0.228,"Hidrogel",2018-12-02,"Dry","Transición","Finca Nixon López (Cascajo)",40
+"92",305,305,7250,"Brassica oleracea","Santa Cruz",1,0.435,0.435,"Hidrogel",2018-01-29,"Wet","Transición","Finca Nixon López (Cascajo)",43
+"93",306,306,7252,"Brassica oleracea","Santa Cruz",1,0.378,0.378,"Hidrogel",2018-09-02,"Dry","Transición","Finca Nixon López (Cascajo)",44.5
+"94",307,307,7253,"Brassica oleracea","Santa Cruz",1,0.37,0.37,"Hidrogel",2018-09-02,"Dry","Transición","Finca Nixon López (Cascajo)",41.5
+"95",308,308,7258,"Brassica oleracea","Santa Cruz",1,0.59,0.59,"Hidrogel",2018-02-05,"Wet","Transición","Finca Nixon López (Cascajo)",41.5
+"96",309,309,7260,"Brassica oleracea","Santa Cruz",1,0.532,0.532,"Hidrogel",2018-01-29,"Wet","Transición","Finca Nixon López (Cascajo)",39
+"97",310,310,7261,"Brassica oleracea","Santa Cruz",1,0.785,0.785,"Hidrogel",2018-09-02,"Dry","Transición","Finca Nixon López (Cascajo)",33
+"98",311,311,7263,"Brassica oleracea","Santa Cruz",1,0.726,0.726,"Hidrogel",2018-12-02,"Dry","Transición","Finca Nixon López (Cascajo)",40
+"99",312,312,7264,"Brassica oleracea","Santa Cruz",1,0.343,0.343,"Hidrogel",2018-12-02,"Dry","Transición","Finca Nixon López (Cascajo)",38
+"100",313,313,7265,"Brassica oleracea","Santa Cruz",1,0.714,0.714,"Hidrogel",2018-01-29,"Wet","Transición","Finca Nixon López (Cascajo)",42
+"101",314,314,7266,"Brassica oleracea","Santa Cruz",1,0.663,0.663,"Hidrogel",2018-01-26,"Wet","Transición","Finca Nixon López (Cascajo)",32
+"102",315,315,7267,"Brassica oleracea","Santa Cruz",1,0.375,0.375,"Hidrogel",2018-12-02,"Dry","Transición","Finca Nixon López (Cascajo)",36
+"103",316,316,7270,"Brassica oleracea","Santa Cruz",1,0.493,0.493,"Hidrogel",2018-01-29,"Wet","Transición","Finca Nixon López (Cascajo)",39
+"104",317,317,7272,"Brassica oleracea","Santa Cruz",1,0.496,0.496,"Hidrogel",2018-02-05,"Wet","Transición","Finca Nixon López (Cascajo)",43
+"105",318,318,7273,"Brassica oleracea","Santa Cruz",1,0.611,0.611,"Hidrogel",2018-02-05,"Wet","Transición","Finca Nixon López (Cascajo)",45
+"106",319,319,7274,"Brassica oleracea","Santa Cruz",1,0.533,0.533,"Hidrogel",2018-02-05,"Wet","Transición","Finca Nixon López (Cascajo)",39.5
+"107",320,320,7275,"Brassica oleracea","Santa Cruz",1,0.334,0.334,"Hidrogel",2018-02-05,"Wet","Transición","Finca Nixon López (Cascajo)",29.5
+"108",321,321,7276,"Brassica oleracea","Santa Cruz",1,0.36,0.36,"Hidrogel",2018-02-15,"Wet","Transición","Finca Nixon López (Cascajo)",34
+"109",322,322,7277,"Brassica oleracea","Santa Cruz",1,0.566,0.566,"Hidrogel",2018-09-02,"Dry","Transición","Finca Nixon López (Cascajo)",34
+"110",323,323,7278,"Brassica oleracea","Santa Cruz",1,0.499,0.499,"Hidrogel",2018-12-02,"Dry","Transición","Finca Nixon López (Cascajo)",35
+"111",324,324,7280,"Brassica oleracea","Santa Cruz",1,0.49,0.49,"Hidrogel",2018-12-02,"Dry","Transición","Finca Nixon López (Cascajo)",40
+"112",325,325,7281,"Brassica oleracea","Santa Cruz",1,0.63,0.63,"Hidrogel",2018-01-29,"Wet","Transición","Finca Nixon López (Cascajo)",42
+"113",326,326,7282,"Brassica oleracea","Santa Cruz",1,0.621,0.621,"Hidrogel",2018-09-02,"Dry","Transición","Finca Nixon López (Cascajo)",46
+"114",327,327,7284,"Brassica oleracea","Santa Cruz",1,0.655,0.655,"Hidrogel",2018-02-05,"Wet","Transición","Finca Nixon López (Cascajo)",42.3
+"115",328,328,7286,"Brassica oleracea","Santa Cruz",1,0.8,0.8,"Hidrogel",2018-01-29,"Wet","Transición","Finca Nixon López (Cascajo)",43
+"116",329,329,7287,"Brassica oleracea","Santa Cruz",1,0.266,0.266,"Hidrogel",2018-02-15,"Wet","Transición","Finca Nixon López (Cascajo)",32
+"117",330,330,7289,"Brassica oleracea","Santa Cruz",1,0.532,0.532,"Hidrogel",2018-09-02,"Dry","Transición","Finca Nixon López (Cascajo)",35.5
+"118",331,331,7290,"Brassica oleracea","Santa Cruz",1,0.435,0.435,"Hidrogel",2018-01-29,"Wet","Transición","Finca Nixon López (Cascajo)",27
+"119",332,332,7291,"Brassica oleracea","Santa Cruz",1,0.447,0.447,"Hidrogel",2018-12-02,"Dry","Transición","Finca Nixon López (Cascajo)",35
+"120",333,333,7292,"Brassica oleracea","Santa Cruz",1,0.21,0.21,"Hidrogel",2018-02-15,"Wet","Transición","Finca Nixon López (Cascajo)",36
+"121",334,334,7293,"Brassica oleracea","Santa Cruz",1,0.59,0.59,"Hidrogel",2018-02-05,"Wet","Transición","Finca Nixon López (Cascajo)",38.7
+"122",335,335,7294,"Brassica oleracea","Santa Cruz",1,0.334,0.334,"Hidrogel",2018-12-02,"Dry","Transición","Finca Nixon López (Cascajo)",44
+"123",336,336,7295,"Brassica oleracea","Santa Cruz",1,0.4,0.4,"Hidrogel",2018-02-15,"Wet","Transición","Finca Nixon López (Cascajo)",35
+"124",337,337,7296,"Brassica oleracea","Santa Cruz",1,0.334,0.334,"Hidrogel",2018-12-02,"Dry","Transición","Finca Nixon López (Cascajo)",37
+"125",338,338,7298,"Brassica oleracea","Santa Cruz",1,0.553,0.553,"Hidrogel",2018-09-02,"Dry","Transición","Finca Nixon López (Cascajo)",43
+"126",339,339,7300,"Brassica oleracea","Santa Cruz",1,0.394,0.394,"Hidrogel",2018-09-02,"Dry","Transición","Finca Nixon López (Cascajo)",38.5
+"127",340,340,7301,"Brassica oleracea","Santa Cruz",1,0.529,0.529,"Hidrogel",2018-02-15,"Wet","Transición","Finca Nixon López (Cascajo)",37
+"128",341,341,7305,"Brassica oleracea","Santa Cruz",1,0.099,0.099,"Hidrogel",2018-01-29,"Wet","Transición","Finca Nixon López (Cascajo)",32
+"129",342,342,7306,"Brassica oleracea","Santa Cruz",1,0.088,0.088,"Hidrogel",2018-04-06,"Wet","Transición","Finca Nixon López (Cascajo)",32
+"130",343,343,7307,"Brassica oleracea","Santa Cruz",1,0.4,0.4,"Hidrogel",2018-02-15,"Wet","Transición","Finca Nixon López (Cascajo)",30
+"131",344,344,7308,"Brassica oleracea","Santa Cruz",1,0.4,0.4,"Hidrogel",2018-09-02,"Dry","Transición","Finca Nixon López (Cascajo)",38
+"132",345,345,7309,"Brassica oleracea","Santa Cruz",1,0.21,0.21,"Hidrogel",2018-09-02,"Dry","Transición","Finca Nixon López (Cascajo)",30.5
+"133",346,346,7310,"Brassica oleracea","Santa Cruz",1,0.28,0.28,"Hidrogel",2018-12-02,"Dry","Transición","Finca Nixon López (Cascajo)",31
+"134",347,347,7311,"Brassica oleracea","Santa Cruz",1,0.344,0.344,"Hidrogel",2018-12-02,"Dry","Transición","Finca Nixon López (Cascajo)",34
+"135",348,348,7312,"Brassica oleracea","Santa Cruz",1,0.319,0.319,"Hidrogel",2018-09-02,"Dry","Transición","Finca Nixon López (Cascajo)",34.7
+"136",349,349,7313,"Brassica oleracea","Santa Cruz",1,0.167,0.167,"Hidrogel",2018-09-02,"Dry","Transición","Finca Nixon López (Cascajo)",29.5
+"137",350,350,7314,"Brassica oleracea","Santa Cruz",1,0.279,0.279,"Control",2018-12-02,"Dry","Transición","Finca Nixon López (Cascajo)",32
+"138",351,351,7315,"Brassica oleracea","Santa Cruz",1,0.826,0.826,"Hidrogel",2018-09-02,"Dry","Transición","Finca Nixon López (Cascajo)",38.3
+"139",352,352,7316,"Brassica oleracea","Santa Cruz",1,0.539,0.539,"Hidrogel",2018-01-29,"Wet","Transición","Finca Nixon López (Cascajo)",40.5
+"140",353,353,7317,"Brassica oleracea","Santa Cruz",1,0.324,0.324,"Hidrogel",2018-09-02,"Dry","Transición","Finca Nixon López (Cascajo)",34.5
+"141",354,354,7320,"Brassica oleracea","Santa Cruz",1,0.575,0.575,"Hidrogel",2018-01-26,"Wet","Transición","Finca Nixon López (Cascajo)",29.5
+"142",355,355,7321,"Brassica oleracea","Santa Cruz",1,0.099,0.099,"Hidrogel",2018-02-15,"Wet","Transición","Finca Nixon López (Cascajo)",31
+"143",356,356,7323,"Brassica oleracea","Santa Cruz",1,0.578,0.578,"Hidrogel",2018-01-29,"Wet","Transición","Finca Nixon López (Cascajo)",43
+"144",357,357,7324,"Brassica oleracea","Santa Cruz",1,0.607,0.607,"Hidrogel",2018-04-06,"Wet","Transición","Finca Nixon López (Cascajo)",37
+"145",358,358,7325,"Brassica oleracea","Santa Cruz",1,0.465,0.465,"Hidrogel",2018-01-29,"Wet","Transición","Finca Nixon López (Cascajo)",42
+"146",359,359,7326,"Brassica oleracea","Santa Cruz",1,0.25,0.25,"Hidrogel",2018-12-02,"Dry","Transición","Finca Nixon López (Cascajo)",25.3
+"147",360,360,7327,"Brassica oleracea","Santa Cruz",1,0.308,0.308,"Control",2018-02-05,"Wet","Transición","Finca Nixon López (Cascajo)",40.5
+"148",361,361,7328,"Brassica oleracea","Santa Cruz",1,0.246,0.246,"Hidrogel",2018-09-02,"Dry","Transición","Finca Nixon López (Cascajo)",35
+"149",362,362,7330,"Brassica oleracea","Santa Cruz",1,0.542,0.542,"Hidrogel",2018-02-15,"Wet","Transición","Finca Nixon López (Cascajo)",31
+"150",363,363,7331,"Brassica oleracea","Santa Cruz",1,0.483,0.483,"Control",2018-09-02,"Dry","Transición","Finca Nixon López (Cascajo)",33
+"151",364,364,7332,"Brassica oleracea","Santa Cruz",1,0.496,0.496,"Control",2018-02-05,"Wet","Transición","Finca Nixon López (Cascajo)",39.7
+"152",365,365,7333,"Brassica oleracea","Santa Cruz",1,0.41,0.41,"Control",2018-12-02,"Dry","Transición","Finca Nixon López (Cascajo)",31
+"153",366,366,7334,"Brassica oleracea","Santa Cruz",1,0.711,0.711,"Control",2018-02-05,"Wet","Transición","Finca Nixon López (Cascajo)",42.5
+"154",367,367,7335,"Brassica oleracea","Santa Cruz",1,0.266,0.266,"Control",2018-09-02,"Dry","Transición","Finca Nixon López (Cascajo)",32
+"155",368,368,7336,"Brassica oleracea","Santa Cruz",1,0.38,0.38,"Control",2018-12-02,"Dry","Transición","Finca Nixon López (Cascajo)",35
+"156",369,369,7337,"Brassica oleracea","Santa Cruz",1,0.641,0.641,"Control",2018-01-29,"Wet","Transición","Finca Nixon López (Cascajo)",38
+"157",370,370,7338,"Brassica oleracea","Santa Cruz",1,0.22,0.22,"Control",2018-12-02,"Dry","Transición","Finca Nixon López (Cascajo)",35
+"158",371,371,7339,"Brassica oleracea","Santa Cruz",1,0.287,0.287,"Control",2018-09-02,"Dry","Transición","Finca Nixon López (Cascajo)",39.5
+"159",372,372,7342,"Brassica oleracea","Santa Cruz",1,0.565,0.565,"Control",2018-01-26,"Wet","Transición","Finca Nixon López (Cascajo)",27.5
+"160",373,373,7345,"Brassica oleracea","Santa Cruz",1,0.593,0.593,"Control",2018-02-05,"Wet","Transición","Finca Nixon López (Cascajo)",35.5
+"161",374,374,7347,"Brassica oleracea","Santa Cruz",1,0.545,0.545,"Control",2018-02-05,"Wet","Transición","Finca Nixon López (Cascajo)",40.5
+"162",375,375,7348,"Brassica oleracea","Santa Cruz",1,0.22,0.22,"Control",2018-09-02,"Dry","Transición","Finca Nixon López (Cascajo)",35
+"163",376,376,7352,"Brassica oleracea","Santa Cruz",1,0.777,0.777,"Control",2018-09-02,"Dry","Transición","Finca Nixon López (Cascajo)",42.5
+"164",377,377,7354,"Brassica oleracea","Santa Cruz",1,0.607,0.607,"Control",2018-02-15,"Wet","Transición","Finca Nixon López (Cascajo)",38
+"165",378,378,7363,"Brassica oleracea","Santa Cruz",1,0.372,0.372,"Control",2018-09-02,"Dry","Transición","Finca Nixon López (Cascajo)",36
+"166",379,379,7364,"Brassica oleracea","Santa Cruz",1,0.285,0.285,"Control",2018-02-05,"Wet","Transición","Finca Nixon López (Cascajo)",37.5
+"167",380,380,7367,"Brassica oleracea","Santa Cruz",1,0.495,0.495,"Control",2018-02-05,"Wet","Transición","Finca Nixon López (Cascajo)",40.5
+"168",381,381,7368,"Brassica oleracea","Santa Cruz",1,0.672,0.672,"Control",2018-01-29,"Wet","Transición","Finca Nixon López (Cascajo)",37
+"169",382,382,7373,"Brassica oleracea","Santa Cruz",1,0.713,0.713,"Control",2018-01-29,"Wet","Transición","Finca Nixon López (Cascajo)",40.5
+"170",383,383,7376,"Brassica oleracea","Santa Cruz",1,0.303,0.303,"Control",2018-02-05,"Wet","Transición","Finca Nixon López (Cascajo)",39.5
+"171",384,384,7382,"Brassica oleracea","Santa Cruz",1,0.47,0.47,"Control",2018-02-05,"Wet","Transición","Finca Nixon López (Cascajo)",37
+"172",385,385,7385,"Brassica oleracea","Santa Cruz",1,0.777,0.777,"Control",2018-01-29,"Wet","Transición","Finca Nixon López (Cascajo)",40
+"173",386,386,7386,"Brassica oleracea","Santa Cruz",1,0.81,0.81,"Control",2018-01-29,"Wet","Transición","Finca Nixon López (Cascajo)",43
+"174",387,387,7387,"Brassica oleracea","Santa Cruz",1,0.577,0.577,"Control",2018-01-29,"Wet","Transición","Finca Nixon López (Cascajo)",38
+"175",388,388,7389,"Brassica oleracea","Santa Cruz",1,0.099,0.099,"Control",2018-02-15,"Wet","Transición","Finca Nixon López (Cascajo)",30
+"176",389,389,7394,"Brassica oleracea","Santa Cruz",1,0.442,0.442,"Control",2018-09-02,"Dry","Transición","Finca Nixon López (Cascajo)",39.5
+"177",390,390,7396,"Brassica oleracea","Santa Cruz",1,0.432,0.432,"Control",2018-02-15,"Wet","Transición","Finca Nixon López (Cascajo)",36
+"178",391,391,7401,"Brassica oleracea","Santa Cruz",1,0.386,0.386,"Control",2018-02-05,"Wet","Transición","Finca Nixon López (Cascajo)",42
+"179",392,392,7404,"Brassica oleracea","Santa Cruz",1,0.342,0.342,"Control",2018-12-02,"Dry","Transición","Finca Nixon López (Cascajo)",35
+"180",393,393,7405,"Brassica oleracea","Santa Cruz",1,0.432,0.432,"Control",2018-09-02,"Dry","Transición","Finca Nixon López (Cascajo)",35
+"181",394,394,7406,"Brassica oleracea","Santa Cruz",1,0.214,0.214,"Control",2018-12-02,"Dry","Transición","Finca Nixon López (Cascajo)",35
+"182",395,395,7411,"Solanum lycopersicum","Santa Cruz",5,0.547,0.1094,"Hidrogel",2018-03-23,"Wet","Transición","Finca Nixon López (Cascajo)",249
+"183",396,396,7413,"Solanum lycopersicum","Santa Cruz",1,0.074,0.074,"Hidrogel",2018-04-13,"Wet","Transición","Finca Nixon López (Cascajo)",233
+"184",397,397,7414,"Solanum lycopersicum","Santa Cruz",8,2.012,0.2515,"Hidrogel",2018-09-02,"Dry","Transición","Finca Nixon López (Cascajo)",253
+"185",398,398,7415,"Solanum lycopersicum","Santa Cruz",1,0.186,0.186,"Hidrogel",2018-03-19,"Wet","Transición","Finca Nixon López (Cascajo)",263
+"186",399,399,7416,"Solanum lycopersicum","Santa Cruz",15,2.529,0.1686,"Hidrogel",2018-12-02,"Dry","Transición","Finca Nixon López (Cascajo)",266
+"187",400,400,7417,"Solanum lycopersicum","Santa Cruz",1,0.128,0.128,"Hidrogel",2018-03-23,"Wet","Transición","Finca Nixon López (Cascajo)",264
+"188",401,401,7418,"Solanum lycopersicum","Santa Cruz",8,1.553,0.194125,"Hidrogel",2018-09-02,"Dry","Transición","Finca Nixon López (Cascajo)",269
+"189",402,402,7419,"Solanum lycopersicum","Santa Cruz",3,0.762,0.254,"Hidrogel",2018-09-03,"Dry","Transición","Finca Nixon López (Cascajo)",272
+"190",403,403,7420,"Solanum lycopersicum","Santa Cruz",11,1.572,0.142909091,"Hidrogel",2018-09-03,"Dry","Transición","Finca Nixon López (Cascajo)",284
+"191",404,404,7421,"Solanum lycopersicum","Santa Cruz",3,0.328,0.109333333,"Hidrogel",2018-04-13,"Wet","Transición","Finca Nixon López (Cascajo)",272
+"192",405,405,7423,"Solanum lycopersicum","Santa Cruz",20,3.106,0.1553,"Hidrogel",2018-09-03,"Dry","Transición","Finca Nixon López (Cascajo)",250
+"193",406,406,7424,"Solanum lycopersicum","Santa Cruz",3,0.367,0.122333333,"Hidrogel",2018-03-23,"Wet","Transición","Finca Nixon López (Cascajo)",5
+"194",407,407,7426,"Solanum lycopersicum","Santa Cruz",22,4.253,0.193318182,"Hidrogel",2018-09-03,"Dry","Transición","Finca Nixon López (Cascajo)",297
+"195",408,408,7427,"Solanum lycopersicum","Santa Cruz",20,3.575,0.17875,"Hidrogel",2018-12-02,"Dry","Transición","Finca Nixon López (Cascajo)",304
+"196",409,409,7428,"Solanum lycopersicum","Santa Cruz",16,3.676,0.22975,"Hidrogel",2018-12-02,"Dry","Transición","Finca Nixon López (Cascajo)",295
+"197",410,410,7429,"Solanum lycopersicum","Santa Cruz",4,0.488,0.122,"Hidrogel",2018-04-13,"Wet","Transición","Finca Nixon López (Cascajo)",302
+"198",411,411,7430,"Solanum lycopersicum","Santa Cruz",17,2.88,0.169411765,"Hidrogel",2018-12-02,"Dry","Transición","Finca Nixon López (Cascajo)",277
+"199",412,412,7431,"Solanum lycopersicum","Santa Cruz",11,1.533,0.139363636,"Hidrogel",2018-09-03,"Dry","Transición","Finca Nixon López (Cascajo)",255
+"200",413,413,7432,"Solanum lycopersicum","Santa Cruz",14,2.4,0.171428571,"Hidrogel",2018-04-06,"Wet","Transición","Finca Nixon López (Cascajo)",299
+"201",414,414,7433,"Solanum lycopersicum","Santa Cruz",22,4.243,0.192863636,"Hidrogel",2018-12-02,"Dry","Transición","Finca Nixon López (Cascajo)",285
+"202",415,415,7434,"Solanum lycopersicum","Santa Cruz",5,0.915,0.183,"Hidrogel",2018-09-03,"Dry","Transición","Finca Nixon López (Cascajo)",280
+"203",416,416,7435,"Solanum lycopersicum","Santa Cruz",14,1.973,0.140928571,"Hidrogel",2018-09-03,"Dry","Transición","Finca Nixon López (Cascajo)",280
+"204",417,417,7436,"Solanum lycopersicum","Santa Cruz",6,1.103,0.183833333,"Hidrogel",2018-04-06,"Wet","Transición","Finca Nixon López (Cascajo)",273
+"205",418,418,7437,"Solanum lycopersicum","Santa Cruz",6,1.173,0.1955,"Hidrogel",2018-03-19,"Wet","Transición","Finca Nixon López (Cascajo)",271
+"206",419,419,7438,"Solanum lycopersicum","Santa Cruz",5,1.04,0.208,"Hidrogel",2018-09-02,"Dry","Transición","Finca Nixon López (Cascajo)",273
+"207",420,420,7439,"Solanum lycopersicum","Santa Cruz",1,0.17,0.17,"Hidrogel",2018-03-19,"Wet","Transición","Finca Nixon López (Cascajo)",277
+"208",421,421,7440,"Solanum lycopersicum","Santa Cruz",19,3.234,0.170210526,"Hidrogel",2018-04-13,"Wet","Transición","Finca Nixon López (Cascajo)",281
+"209",422,422,7441,"Solanum lycopersicum","Santa Cruz",4,0.75,0.1875,"Hidrogel",2018-12-02,"Dry","Transición","Finca Nixon López (Cascajo)",308
+"210",423,423,7442,"Solanum lycopersicum","Santa Cruz",15,2.876,0.191733333,"Hidrogel",2018-12-02,"Dry","Transición","Finca Nixon López (Cascajo)",285
+"211",424,424,7443,"Solanum lycopersicum","Santa Cruz",6,0.866,0.144333333,"Hidrogel",2018-03-23,"Wet","Transición","Finca Nixon López (Cascajo)",307
+"212",425,425,7444,"Solanum lycopersicum","Santa Cruz",5,0.714,0.1428,"Hidrogel",2018-04-13,"Wet","Transición","Finca Nixon López (Cascajo)",301
+"213",426,426,7445,"Solanum lycopersicum","Santa Cruz",7,0.664,0.094857143,"Hidrogel",2018-12-02,"Dry","Transición","Finca Nixon López (Cascajo)",277
+"214",427,427,7446,"Solanum lycopersicum","Santa Cruz",4,1.003,0.25075,"Hidrogel",2018-12-02,"Dry","Transición","Finca Nixon López (Cascajo)",274
+"215",428,428,7447,"Solanum lycopersicum","Santa Cruz",24,3.424,0.142666667,"Hidrogel",2018-09-03,"Dry","Transición","Finca Nixon López (Cascajo)",271
+"216",429,429,7448,"Solanum lycopersicum","Santa Cruz",3,0.387,0.129,"Hidrogel",2018-02-03,"Wet","Transición","Finca Nixon López (Cascajo)",302
+"217",430,430,7449,"Solanum lycopersicum","Santa Cruz",33,5.84,0.176969697,"Hidrogel",2018-12-02,"Dry","Transición","Finca Nixon López (Cascajo)",315
+"218",431,431,7450,"Solanum lycopersicum","Santa Cruz",2,0.347,0.1735,"Hidrogel",2018-03-19,"Wet","Transición","Finca Nixon López (Cascajo)",320
+"219",432,432,7451,"Solanum lycopersicum","Santa Cruz",23,3.902,0.169652174,"Hidrogel",2018-09-03,"Dry","Transición","Finca Nixon López (Cascajo)",255
+"220",433,433,7452,"Solanum lycopersicum","Santa Cruz",3,0.489,0.163,"Hidrogel",2018-04-13,"Wet","Transición","Finca Nixon López (Cascajo)",285
+"221",434,434,7453,"Solanum lycopersicum","Santa Cruz",17,3.246,0.190941176,"Hidrogel",2018-09-03,"Dry","Transición","Finca Nixon López (Cascajo)",294
+"222",435,435,7455,"Solanum lycopersicum","Santa Cruz",19,3.642,0.191684211,"Hidrogel",2018-09-03,"Dry","Transición","Finca Nixon López (Cascajo)",297
+"223",436,436,7456,"Solanum lycopersicum","Santa Cruz",15,3.527,0.235133333,"Hidrogel",2018-09-03,"Dry","Transición","Finca Nixon López (Cascajo)",284
+"224",437,437,7457,"Solanum lycopersicum","Santa Cruz",1,0.176,0.176,"Hidrogel",2018-09-02,"Dry","Transición","Finca Nixon López (Cascajo)",280
+"225",438,438,7458,"Solanum lycopersicum","Santa Cruz",15,2.77,0.184666667,"Hidrogel",2018-09-03,"Dry","Transición","Finca Nixon López (Cascajo)",281
+"226",439,439,7459,"Solanum lycopersicum","Santa Cruz",2,0.54,0.27,"Hidrogel",2018-04-13,"Wet","Transición","Finca Nixon López (Cascajo)",301
+"227",440,440,7460,"Solanum lycopersicum","Santa Cruz",7,1.891,0.270142857,"Hidrogel",2018-12-02,"Dry","Transición","Finca Nixon López (Cascajo)",294
+"228",441,441,7461,"Solanum lycopersicum","Santa Cruz",15,2.266,0.151066667,"Hidrogel",2018-09-03,"Dry","Transición","Finca Nixon López (Cascajo)",267
+"229",442,442,7462,"Solanum lycopersicum","Santa Cruz",4,0.612,0.153,"Hidrogel",2018-03-19,"Wet","Transición","Finca Nixon López (Cascajo)",279
+"230",443,443,7463,"Solanum lycopersicum","Santa Cruz",12,2.665,0.222083333,"Hidrogel",2018-09-03,"Dry","Transición","Finca Nixon López (Cascajo)",268
+"231",444,444,7464,"Solanum lycopersicum","Santa Cruz",13,2.348,0.180615385,"Control",2018-12-02,"Dry","Transición","Finca Nixon López (Cascajo)",287
+"232",445,445,7465,"Solanum lycopersicum","Santa Cruz",3,0.594,0.198,"Control",2018-02-23,"Wet","Transición","Finca Nixon López (Cascajo)",296
+"233",446,446,7466,"Solanum lycopersicum","Santa Cruz",12,2.391,0.19925,"Control",2018-09-02,"Dry","Transición","Finca Nixon López (Cascajo)",272
+"234",447,447,7467,"Solanum lycopersicum","Santa Cruz",10,1.996,0.1996,"Control",2018-09-02,"Dry","Transición","Finca Nixon López (Cascajo)",281
+"235",448,448,7468,"Solanum lycopersicum","Santa Cruz",8,2.12,0.265,"Control",2018-09-03,"Dry","Transición","Finca Nixon López (Cascajo)",277
+"236",449,449,7470,"Solanum lycopersicum","Santa Cruz",2,0.505,0.2525,"Control",2018-03-19,"Wet","Transición","Finca Nixon López (Cascajo)",271
+"237",450,450,7472,"Solanum lycopersicum","Santa Cruz",17,2.712,0.159529412,"Control",2018-12-02,"Dry","Transición","Finca Nixon López (Cascajo)",302
+"238",451,451,7473,"Solanum lycopersicum","Santa Cruz",8,1.071,0.133875,"Control",2018-04-13,"Wet","Transición","Finca Nixon López (Cascajo)",269
+"239",452,452,7474,"Solanum lycopersicum","Santa Cruz",19,4.08,0.214736842,"Control",2018-09-03,"Dry","Transición","Finca Nixon López (Cascajo)",305
+"240",453,453,7476,"Solanum lycopersicum","Santa Cruz",19,3.703,0.194894737,"Control",2018-12-02,"Dry","Transición","Finca Nixon López (Cascajo)",308
+"241",454,454,7477,"Solanum lycopersicum","Santa Cruz",3,0.519,0.173,"Control",2018-03-23,"Wet","Transición","Finca Nixon López (Cascajo)",266
+"242",455,455,7478,"Solanum lycopersicum","Santa Cruz",17,2.928,0.172235294,"Control",2018-12-02,"Dry","Transición","Finca Nixon López (Cascajo)",284
+"243",456,456,7479,"Solanum lycopersicum","Santa Cruz",13,2.079,0.159923077,"Control",2018-03-23,"Wet","Transición","Finca Nixon López (Cascajo)",304
+"244",457,457,7480,"Solanum lycopersicum","Santa Cruz",12,1.749,0.14575,"Control",2018-12-02,"Dry","Transición","Finca Nixon López (Cascajo)",293
+"245",458,458,7482,"Solanum lycopersicum","Santa Cruz",14,2.149,0.1535,"Control",2018-09-03,"Dry","Transición","Finca Nixon López (Cascajo)",283
+"246",459,459,7484,"Solanum lycopersicum","Santa Cruz",23,4.432,0.192695652,"Control",2018-12-02,"Dry","Transición","Finca Nixon López (Cascajo)",311
+"247",460,460,7485,"Solanum lycopersicum","Santa Cruz",5,0.643,0.1286,"Control",2018-04-06,"Wet","Transición","Finca Nixon López (Cascajo)",272
+"248",461,461,7486,"Solanum lycopersicum","Santa Cruz",9,1.939,0.215444444,"Control",2018-12-02,"Dry","Transición","Finca Nixon López (Cascajo)",297
+"249",462,462,7487,"Solanum lycopersicum","Santa Cruz",6,0.998,0.166333333,"Control",2018-03-29,"Wet","Transición","Finca Nixon López (Cascajo)",274
+"250",463,463,7489,"Solanum lycopersicum","Santa Cruz",17,2.997,0.176294118,"Control",2018-09-03,"Dry","Transición","Finca Nixon López (Cascajo)",315
+"251",464,464,7490,"Solanum lycopersicum","Santa Cruz",25,3.926,0.15704,"Control",2018-12-02,"Dry","Transición","Finca Nixon López (Cascajo)",288
+"252",465,465,7491,"Solanum lycopersicum","Santa Cruz",3,0.405,0.135,"Control",2018-03-19,"Wet","Transición","Finca Nixon López (Cascajo)",279
+"253",466,466,7492,"Solanum lycopersicum","Santa Cruz",10,1.655,0.1655,"Control",2018-09-02,"Dry","Transición","Finca Nixon López (Cascajo)",289
+"254",467,467,7493,"Solanum lycopersicum","Santa Cruz",2,0.333,0.1665,"Control",2018-04-13,"Wet","Transición","Finca Nixon López (Cascajo)",302
+"255",468,468,7494,"Solanum lycopersicum","Santa Cruz",24,4.361,0.181708333,"Control",2018-09-02,"Dry","Transición","Finca Nixon López (Cascajo)",300
+"256",469,469,7495,"Solanum lycopersicum","Santa Cruz",3,0.54,0.18,"Control",2018-04-06,"Wet","Transición","Finca Nixon López (Cascajo)",277
+"257",470,470,7496,"Solanum lycopersicum","Santa Cruz",12,2.276,0.189666667,"Control",2018-09-02,"Dry","Transición","Finca Nixon López (Cascajo)",305
+"258",471,471,7497,"Solanum lycopersicum","Santa Cruz",5,1.124,0.2248,"Control",2018-02-23,"Wet","Transición","Finca Nixon López (Cascajo)",294
+"259",472,472,7498,"Solanum lycopersicum","Santa Cruz",6,1.109,0.184833333,"Control",2018-04-06,"Wet","Transición","Finca Nixon López (Cascajo)",288
+"260",473,473,7499,"Solanum lycopersicum","Santa Cruz",13,2.052,0.157846154,"Control",2018-12-02,"Dry","Transición","Finca Nixon López (Cascajo)",296
+"261",474,474,7500,"Solanum lycopersicum","Santa Cruz",5,0.758,0.1516,"Control",2018-04-06,"Wet","Transición","Finca Nixon López (Cascajo)",312
+"262",475,475,7501,"Solanum lycopersicum","Santa Cruz",16,3.001,0.1875625,"Control",2018-12-02,"Dry","Transición","Finca Nixon López (Cascajo)",300
+"263",476,476,7502,"Solanum lycopersicum","Santa Cruz",10,1.759,0.1759,"Control",2018-12-02,"Dry","Transición","Finca Nixon López (Cascajo)",276
+"264",477,477,7502,"Solanum lycopersicum","Santa Cruz",10,1.759,0.1759,"Hidrogel",2018-12-02,"Dry","Transición","Finca Nixon López (Cascajo)",276
+"265",478,478,7503,"Solanum lycopersicum","Santa Cruz",11,1.358,0.123454545,"Control",2018-04-02,"Wet","Transición","Finca Nixon López (Cascajo)",287
+"266",479,479,7504,"Solanum lycopersicum","Santa Cruz",14,2.414,0.172428571,"Control",2018-09-03,"Dry","Transición","Finca Nixon López (Cascajo)",263
+"267",480,480,7504,"Solanum lycopersicum","Santa Cruz",14,2.414,0.172428571,"Hidrogel",2018-09-03,"Dry","Transición","Finca Nixon López (Cascajo)",263
+"268",481,481,7505,"Solanum lycopersicum","Santa Cruz",24,4.378,0.182416667,"Control",2018-12-02,"Dry","Transición","Finca Nixon López (Cascajo)",273
+"269",482,482,7506,"Solanum lycopersicum","Santa Cruz",10,2.36,0.236,"Control",2018-09-02,"Dry","Transición","Finca Nixon López (Cascajo)",290
+"270",483,483,7506,"Solanum lycopersicum","Santa Cruz",10,2.36,0.236,"Hidrogel",2018-09-02,"Dry","Transición","Finca Nixon López (Cascajo)",290
+"271",484,484,7508,"Solanum lycopersicum","Santa Cruz",14,2.744,0.196,"Control",2018-04-13,"Wet","Transición","Finca Nixon López (Cascajo)",297
+"272",485,485,7511,"Solanum lycopersicum","Santa Cruz",11,1.7,0.154545455,"Control",2018-09-02,"Dry","Transición","Finca Nixon López (Cascajo)",251
+"273",486,486,7512,"Solanum lycopersicum","Santa Cruz",4,0.616,0.154,"Control",2018-12-02,"Dry","Transición","Finca Nixon López (Cascajo)",284
+"274",487,487,7513,"Solanum lycopersicum","Santa Cruz",19,3.485,0.183421053,"Control",2018-09-02,"Dry","Transición","Finca Nixon López (Cascajo)",274
+"275",488,488,7515,"Solanum lycopersicum","Santa Cruz",15,2.774,0.184933333,"Control",2018-09-02,"Dry","Transición","Finca Nixon López (Cascajo)",265
+"276",489,489,7516,"Solanum lycopersicum","Santa Cruz",1,0.09,0.09,"Control",2018-09-03,"Dry","Transición","Finca Nixon López (Cascajo)",261
+"277",510,510,7537,"Solanum lycopersicum","Santa Cruz",23,2.21,0.096086957,"Hidrogel",2018-12-02,"Dry","Transición","Finca  Wilson Cabrera",300
+"278",511,511,7538,"Solanum lycopersicum","Santa Cruz",21,2.404,0.11447619,"Hidrogel",2018-09-03,"Dry","Transición","Finca  Wilson Cabrera",310
+"279",512,512,7539,"Solanum lycopersicum","Santa Cruz",28,3.835,0.136964286,"Hidrogel",2018-12-02,"Dry","Transición","Finca  Wilson Cabrera",280
+"280",513,513,7540,"Solanum lycopersicum","Santa Cruz",13,1.561,0.120076923,"Hidrogel",2018-03-29,"Wet","Transición","Finca  Wilson Cabrera",280
+"281",514,514,7541,"Solanum lycopersicum","Santa Cruz",10,1.056,0.1056,"Hidrogel",2018-09-03,"Dry","Transición","Finca  Wilson Cabrera",250
+"282",515,515,7542,"Solanum lycopersicum","Santa Cruz",28,3.468,0.123857143,"Hidrogel",2018-09-02,"Dry","Transición","Finca  Wilson Cabrera",250
+"283",516,516,7543,"Solanum lycopersicum","Santa Cruz",32,3.694,0.1154375,"Hidrogel",2018-12-02,"Dry","Transición","Finca  Wilson Cabrera",290
+"284",517,517,7544,"Solanum lycopersicum","Santa Cruz",41,4.836,0.11795122,"Hidrogel",2018-09-03,"Dry","Transición","Finca  Wilson Cabrera",310
+"285",518,518,7545,"Solanum lycopersicum","Santa Cruz",19,2.23,0.117368421,"Hidrogel",2018-12-02,"Dry","Transición","Finca  Wilson Cabrera",315
+"286",519,519,7546,"Solanum lycopersicum","Santa Cruz",27,4.244,0.157185185,"Hidrogel",2018-12-02,"Dry","Transición","Finca  Wilson Cabrera",290
+"287",520,520,7547,"Solanum lycopersicum","Santa Cruz",24,2.663,0.110958333,"Hidrogel",2018-09-02,"Dry","Transición","Finca  Wilson Cabrera",280
+"288",521,521,7548,"Solanum lycopersicum","Santa Cruz",14,1.938,0.138428571,"Hidrogel",2018-09-03,"Dry","Transición","Finca  Wilson Cabrera",300
+"289",522,522,7549,"Solanum lycopersicum","Santa Cruz",19,2.85,0.15,"Hidrogel",2018-09-03,"Dry","Transición","Finca  Wilson Cabrera",340
+"290",523,523,7550,"Solanum lycopersicum","Santa Cruz",17,2.677,0.157470588,"Hidrogel",2018-12-02,"Dry","Transición","Finca  Wilson Cabrera",350
+"291",524,524,7551,"Solanum lycopersicum","Santa Cruz",28,3.629,0.129607143,"Hidrogel",2018-12-02,"Dry","Transición","Finca  Wilson Cabrera",310
+"292",525,525,7552,"Solanum lycopersicum","Santa Cruz",19,2.851,0.150052632,"Control",2018-09-02,"Dry","Transición","Finca  Wilson Cabrera",300
+"293",526,526,7553,"Solanum lycopersicum","Santa Cruz",19,2.796,0.147157895,"Control",2018-09-02,"Dry","Transición","Finca  Wilson Cabrera",290
+"294",527,527,7554,"Solanum lycopersicum","Santa Cruz",16,2.532,0.15825,"Control",2018-09-03,"Dry","Transición","Finca  Wilson Cabrera",310
+"295",528,528,7555,"Solanum lycopersicum","Santa Cruz",27,3.587,0.132851852,"Control",2018-12-02,"Dry","Transición","Finca  Wilson Cabrera",310
+"296",529,529,7556,"Solanum lycopersicum","Santa Cruz",36,4.513,0.125361111,"Control",2018-12-02,"Dry","Transición","Finca  Wilson Cabrera",320
+"297",530,530,7557,"Solanum lycopersicum","Santa Cruz",10,1.096,0.1096,"Control",2018-09-03,"Dry","Transición","Finca  Wilson Cabrera",280
+"298",531,531,7559,"Solanum lycopersicum","Santa Cruz",29,3.194,0.110137931,"Control",2018-12-02,"Dry","Transición","Finca  Wilson Cabrera",300
+"299",532,532,7560,"Solanum lycopersicum","Santa Cruz",24,3.264,0.136,"Control",2018-09-03,"Dry","Transición","Finca  Wilson Cabrera",320
+"300",533,533,7561,"Solanum lycopersicum","Santa Cruz",18,2.247,0.124833333,"Control",2018-09-03,"Dry","Transición","Finca  Wilson Cabrera",320
+"301",534,534,7562,"Solanum lycopersicum","Santa Cruz",37,4.4,0.118918919,"Control",2018-09-03,"Dry","Transición","Finca  Wilson Cabrera",350
+"302",535,535,7563,"Solanum lycopersicum","Santa Cruz",22,2.497,0.1135,"Control",2018-12-02,"Dry","Transición","Finca  Wilson Cabrera",280
+"303",536,536,7564,"Solanum lycopersicum","Santa Cruz",28,3.509,0.125321429,"Control",2018-12-02,"Dry","Transición","Finca  Wilson Cabrera",300
+"304",537,537,7565,"Solanum lycopersicum","Santa Cruz",14,1.812,0.129428571,"Control",2018-09-03,"Dry","Transición","Finca  Wilson Cabrera",320
+"305",538,538,7566,"Solanum lycopersicum","Santa Cruz",13,1.232,0.094769231,"Control",2018-09-03,"Dry","Transición","Finca  Wilson Cabrera",320
+"306",539,539,7567,"Solanum lycopersicum","Santa Cruz",19,2.409,0.126789474,"Control",2018-09-03,"Dry","Transición","Finca  Wilson Cabrera",280
+"307",540,540,7568,"Solanum lycopersicum","Santa Cruz",13,1.422,0.109384615,"Control",2018-09-03,"Dry","Transición","Finca  Wilson Cabrera",300
+"308",541,541,7569,"Solanum lycopersicum","Santa Cruz",26,3.412,0.131230769,"Control",2018-09-02,"Dry","Transición","Finca  Wilson Cabrera",310
+"309",542,542,7570,"Solanum lycopersicum","Santa Cruz",41,4.693,0.114463415,"Control",2018-09-03,"Dry","Transición","Finca  Wilson Cabrera",310
+"310",543,543,7599,"Solanum lycopersicum","Santa Cruz",1,0.175,0.175,"Control",2018-02-15,"Wet","Árida","Las Tunas-Este",16
+"311",564,564,7668,"Cucumis sativus","Santa Cruz",15,5.12,0.341333333,"Hidrogel",2018-09-03,"Dry","Transición","Finca Nixon López (Occidente)",212
+"312",565,565,7669,"Cucumis sativus","Santa Cruz",5,1.828,0.3656,"Hidrogel",2018-09-03,"Dry","Transición","Finca Nixon López (Occidente)",232
+"313",566,566,7670,"Cucumis sativus","Santa Cruz",4,1.408,0.352,"Hidrogel",2018-09-02,"Dry","Transición","Finca Nixon López (Occidente)",283
+"314",567,567,7671,"Cucumis sativus","Santa Cruz",9,3.158,0.350888889,"Hidrogel",2018-09-02,"Dry","Transición","Finca Nixon López (Occidente)",283
+"315",568,568,7672,"Cucumis sativus","Santa Cruz",2,0.636,0.318,"Hidrogel",2018-09-02,"Dry","Transición","Finca Nixon López (Occidente)",173
+"316",569,569,7673,"Cucumis sativus","Santa Cruz",7,2.5,0.357142857,"Hidrogel",2018-04-06,"Wet","Transición","Finca Nixon López (Occidente)",107
+"317",570,570,7674,"Cucumis sativus","Santa Cruz",2,0.64,0.32,"Hidrogel",2018-02-15,"Wet","Transición","Finca Nixon López (Occidente)",225
+"318",571,571,7675,"Cucumis sativus","Santa Cruz",8,2.636,0.3295,"Hidrogel",2018-09-03,"Dry","Transición","Finca Nixon López (Occidente)",207
+"319",572,572,7676,"Cucumis sativus","Santa Cruz",8,2.351,0.293875,"Hidrogel",2018-04-06,"Wet","Transición","Finca Nixon López (Occidente)",234
+"320",573,573,7677,"Cucumis sativus","Santa Cruz",6,1.587,0.2645,"Hidrogel",2018-09-02,"Dry","Transición","Finca Nixon López (Occidente)",171
+"321",574,574,7678,"Cucumis sativus","Santa Cruz",8,3.043,0.380375,"Hidrogel",2018-04-06,"Wet","Transición","Finca Nixon López (Occidente)",165
+"322",575,575,7679,"Cucumis sativus","Santa Cruz",1,0.218,0.218,"Hidrogel",2018-02-03,"Wet","Transición","Finca Nixon López (Occidente)",181
+"323",576,576,7680,"Cucumis sativus","Santa Cruz",10,2.646,0.2646,"Hidrogel",2018-09-03,"Dry","Transición","Finca Nixon López (Occidente)",185
+"324",577,577,7681,"Cucumis sativus","Santa Cruz",11,3.845,0.349545455,"Hidrogel",2018-09-03,"Dry","Transición","Finca Nixon López (Occidente)",162
+"325",578,578,7682,"Cucumis sativus","Santa Cruz",6,2.269,0.378166667,"Hidrogel",2018-04-06,"Wet","Transición","Finca Nixon López (Occidente)",150
+"326",579,579,7683,"Cucumis sativus","Santa Cruz",4,1.133,0.28325,"Hidrogel",2018-09-02,"Dry","Transición","Finca Nixon López (Occidente)",199
+"327",580,580,7684,"Cucumis sativus","Santa Cruz",12,4.023,0.33525,"Hidrogel",2018-09-03,"Dry","Transición","Finca Nixon López (Occidente)",245
+"328",581,581,7685,"Cucumis sativus","Santa Cruz",6,1.841,0.306833333,"Hidrogel",2018-09-03,"Dry","Transición","Finca Nixon López (Occidente)",268
+"329",582,582,7686,"Cucumis sativus","Santa Cruz",6,2.052,0.342,"Hidrogel",2018-09-02,"Dry","Transición","Finca Nixon López (Occidente)",135
+"330",583,583,7687,"Cucumis sativus","Santa Cruz",7,2.168,0.309714286,"Hidrogel",2018-09-03,"Dry","Transición","Finca Nixon López (Occidente)",220
+"331",584,584,7688,"Cucumis sativus","Santa Cruz",1,0.227,0.227,"Control",2018-02-15,"Wet","Transición","Finca Nixon López (Occidente)",144
+"332",585,585,7689,"Cucumis sativus","Santa Cruz",7,2.282,0.326,"Control",2018-04-06,"Wet","Transición","Finca Nixon López (Occidente)",238
+"333",586,586,7690,"Cucumis sativus","Santa Cruz",6,1.683,0.2805,"Control",2018-09-03,"Dry","Transición","Finca Nixon López (Occidente)",158
+"334",587,587,7691,"Cucumis sativus","Santa Cruz",1,0.466,0.466,"Control",2018-02-23,"Wet","Transición","Finca Nixon López (Occidente)",107
+"335",588,588,7692,"Cucumis sativus","Santa Cruz",15,5.333,0.355533333,"Control",2018-09-03,"Dry","Transición","Finca Nixon López (Occidente)",230
+"336",589,589,7693,"Cucumis sativus","Santa Cruz",3,0.976,0.325333333,"Control",2018-09-02,"Dry","Transición","Finca Nixon López (Occidente)",205
+"337",590,590,7694,"Cucumis sativus","Santa Cruz",7,2.133,0.304714286,"Control",2018-04-06,"Wet","Transición","Finca Nixon López (Occidente)",210
+"338",591,591,7695,"Cucumis sativus","Santa Cruz",5,1.753,0.3506,"Control",2018-09-03,"Dry","Transición","Finca Nixon López (Occidente)",248
+"339",592,592,7696,"Cucumis sativus","Santa Cruz",8,2.59,0.32375,"Control",2018-09-02,"Dry","Transición","Finca Nixon López (Occidente)",238
+"340",593,593,7697,"Cucumis sativus","Santa Cruz",7,2.172,0.310285714,"Control",2018-09-03,"Dry","Transición","Finca Nixon López (Occidente)",187
+"341",594,594,7698,"Cucumis sativus","Santa Cruz",6,2.036,0.339333333,"Control",2018-09-03,"Dry","Transición","Finca Nixon López (Occidente)",130
+"342",595,595,7699,"Cucumis sativus","Santa Cruz",5,1.904,0.3808,"Control",2018-04-06,"Wet","Transición","Finca Nixon López (Occidente)",227
+"343",596,596,7700,"Cucumis sativus","Santa Cruz",10,3.057,0.3057,"Control",2018-09-03,"Dry","Transición","Finca Nixon López (Occidente)",216
+"344",597,597,7701,"Cucumis sativus","Santa Cruz",6,1.781,0.296833333,"Control",2018-04-06,"Wet","Transición","Finca Nixon López (Occidente)",164
+"345",598,598,7702,"Cucumis sativus","Santa Cruz",4,1.365,0.34125,"Control",2018-04-06,"Wet","Transición","Finca Nixon López (Occidente)",200
+"346",599,599,7703,"Cucumis sativus","Santa Cruz",4,1.38,0.345,"Control",2018-09-03,"Dry","Transición","Finca Nixon López (Occidente)",222
+"347",600,600,7704,"Cucumis sativus","Santa Cruz",9,2.746,0.305111111,"Control",2018-09-02,"Dry","Transición","Finca Nixon López (Occidente)",211
+"348",601,601,7705,"Cucumis sativus","Santa Cruz",11,3.351,0.304636364,"Control",2018-09-03,"Dry","Transición","Finca Nixon López (Occidente)",142
+"349",602,602,7706,"Cucumis sativus","Santa Cruz",5,2.111,0.4222,"Control",2018-09-03,"Dry","Transición","Finca Nixon López (Occidente)",165
+"350",603,603,7707,"Cucumis sativus","Santa Cruz",13,4.611,0.354692308,"Control",2018-09-03,"Dry","Transición","Finca Nixon López (Occidente)",188
+"351",604,604,7726,"Citrullus lanatus","Santa Cruz",1,2.727,2.727,"Hidrogel",2018-04-13,"Wet","Transición","Finca Nixon López (Cascajo)",260
+"352",605,605,7728,"Citrullus lanatus","Santa Cruz",2,18.181,9.0905,"Hidrogel",2018-04-13,"Wet","Transición","Finca Nixon López (Cascajo)",350
+"353",606,606,7729,"Citrullus lanatus","Santa Cruz",2,5.908,2.954,"Hidrogel",2018-04-06,"Wet","Transición","Finca Nixon López (Cascajo)",215
+"354",607,607,7730,"Citrullus lanatus","Santa Cruz",1,1.818,1.818,"Hidrogel",2018-04-06,"Wet","Transición","Finca Nixon López (Cascajo)",350
+"355",608,608,7739,"Citrullus lanatus","Santa Cruz",1,2.272,2.272,"Hidrogel",2018-04-13,"Wet","Transición","Finca Nixon López (Cascajo)",320
+"356",609,609,7743,"Citrullus lanatus","Santa Cruz",1,2.272,2.272,"Hidrogel",2018-04-13,"Wet","Transición","Finca Nixon López (Cascajo)",310
+"357",610,610,7750,"Citrullus lanatus","Santa Cruz",1,1.363,1.363,"Hidrogel",2018-04-13,"Wet","Transición","Finca Nixon López (Cascajo)",350
+"358",611,611,7762,"Citrullus lanatus","Santa Cruz",1,3.409,3.409,"Hidrogel",2018-04-06,"Wet","Transición","Finca Nixon López (Cascajo)",450
+"359",612,612,7764,"Citrullus lanatus","Santa Cruz",1,1.363,1.363,"Hidrogel",2018-04-13,"Wet","Transición","Finca Nixon López (Cascajo)",400
+"360",613,613,7765,"Citrullus lanatus","Santa Cruz",1,2.272,2.272,"Control",2018-04-06,"Wet","Transición","Finca Nixon López (Cascajo)",360
+"361",614,614,7768,"Citrullus lanatus","Santa Cruz",1,1.818,1.818,"Control",2018-04-06,"Wet","Transición","Finca Nixon López (Cascajo)",350
+"362",615,615,7769,"Citrullus lanatus","Santa Cruz",1,8.181,8.181,"Control",2018-04-06,"Wet","Transición","Finca Nixon López (Cascajo)",350
+"363",616,616,7770,"Citrullus lanatus","Santa Cruz",2,10.453,5.2265,"Control",2018-04-13,"Wet","Transición","Finca Nixon López (Cascajo)",310
+"364",617,617,7772,"Citrullus lanatus","Santa Cruz",1,2.272,2.272,"Control",2018-04-06,"Wet","Transición","Finca Nixon López (Cascajo)",350
+"365",618,618,7773,"Citrullus lanatus","Santa Cruz",3,7.176,2.392,"Control",2018-04-13,"Wet","Transición","Finca Nixon López (Cascajo)",330
+"366",619,619,7774,"Citrullus lanatus","Santa Cruz",1,2.272,2.272,"Control",2018-04-13,"Wet","Transición","Finca Nixon López (Cascajo)",180
+"367",620,620,7776,"Citrullus lanatus","Santa Cruz",1,5,5,"Control",2018-04-06,"Wet","Transición","Finca Nixon López (Cascajo)",340
+"368",621,621,7777,"Citrullus lanatus","Santa Cruz",1,4.545,4.545,"Control",2018-04-06,"Wet","Transición","Finca Nixon López (Cascajo)",400
+"369",622,622,7800,"Citrullus lanatus","Santa Cruz",1,3.636,3.636,"Control",2018-04-13,"Wet","Transición","Finca Nixon López (Cascajo)",300
+"370",623,623,7801,"Citrullus lanatus","Santa Cruz",1,1.181,1.181,"Control",2018-04-13,"Wet","Transición","Finca Nixon López (Cascajo)",200
+"371",624,624,7802,"Citrullus lanatus","Santa Cruz",1,1.363,1.363,"Control",2018-04-13,"Wet","Transición","Finca Nixon López (Cascajo)",300
+"372",654,654,7944,"Cucumis melo","Santa Cruz",1,1.11,1.11,"Control",2018-03-26,"Wet","Transición","Finca Nixon López (Occidente)",110
+"373",655,655,7945,"Cucumis melo","Santa Cruz",1,2.066,2.066,"Control",2018-03-26,"Wet","Transición","Finca Nixon López (Occidente)",130
+"374",656,656,7947,"Cucumis melo","Santa Cruz",2,2.045,1.0225,"Control",2018-03-29,"Wet","Transición","Finca Nixon López (Occidente)",178
+"375",657,657,7948,"Cucumis melo","Santa Cruz",1,1.324,1.324,"Control",2018-03-29,"Wet","Transición","Finca Nixon López (Occidente)",134
+"376",658,658,7950,"Cucumis melo","Santa Cruz",3,3.056,1.018666667,"Control",2018-04-02,"Wet","Transición","Finca Nixon López (Occidente)",140
+"377",659,659,7951,"Cucumis melo","Santa Cruz",1,1.164,1.164,"Control",2018-03-26,"Wet","Transición","Finca Nixon López (Occidente)",145
+"378",660,660,7952,"Cucumis melo","Santa Cruz",2,4.052,2.026,"Control",2018-04-02,"Wet","Transición","Finca Nixon López (Occidente)",160
+"379",661,661,7954,"Cucumis melo","Santa Cruz",1,0.968,0.968,"Control",2018-03-29,"Wet","Transición","Finca Nixon López (Occidente)",20
+"380",662,662,7957,"Cucumis melo","Santa Cruz",2,2.135,1.0675,"Control",2018-03-29,"Wet","Transición","Finca Nixon López (Occidente)",135
+"381",663,663,7958,"Cucumis melo","Santa Cruz",1,1.307,1.307,"Control",2018-03-26,"Wet","Transición","Finca Nixon López (Occidente)",120
+"382",664,664,7960,"Cucumis melo","Santa Cruz",1,1.13,1.13,"Control",2018-04-06,"Wet","Transición","Finca Nixon López (Occidente)",140
+"383",665,665,7961,"Cucumis melo","Santa Cruz",1,1.424,1.424,"Control",2018-03-26,"Wet","Transición","Finca Nixon López (Occidente)",115
+"384",666,666,7963,"Cucumis melo","Santa Cruz",1,0.826,0.826,"Control",2018-03-26,"Wet","Transición","Finca Nixon López (Occidente)",110
+"385",667,667,7964,"Cucumis melo","Santa Cruz",2,2.303,1.1515,"Control",2018-04-02,"Wet","Transición","Finca Nixon López (Occidente)",160
+"386",668,668,7967,"Cucumis melo","Santa Cruz",1,0.433,0.433,"Control",2018-04-06,"Wet","Transición","Finca Nixon López (Occidente)",180
+"387",669,669,7968,"Cucumis melo","Santa Cruz",3,2.773,0.924333333,"Control",2018-04-06,"Wet","Transición","Finca Nixon López (Occidente)",170
+"388",670,670,7969,"Cucumis melo","Santa Cruz",2,2.106,1.053,"Control",2018-04-06,"Wet","Transición","Finca Nixon López (Occidente)",196

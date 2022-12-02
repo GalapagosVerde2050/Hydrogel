@@ -13,7 +13,7 @@
   library(tidyverse)}
 
 ##################### OBTAINING HMAX ######################################
-RW<-read_xlsx("C:/Users/DETPC/Documents/R/github/gv2050party/Productividad.xlsx")
+RW<-read_xlsx("C:/Users/DETPC/Documents/R/github/Hydrogel/Productividad.xlsx")
 RW
 FA = RW%>%
   group_by(CODIGO)%>%
@@ -24,12 +24,12 @@ FA = RW%>%
             Treatment=unique(TRATAMIENTO),
             Island=max(ISLA),
             Species=max(ESPECIE))
-setwd("C:/Users/DETPC/Documents/R/github/gv2050party/")
+setwd("C:/Users/DETPC/Documents/R/github/Hydrogel/")
 write.csv(FA, "ProduSUM.csv")
 
 
 ##################### OBTAINING HMAX ######################################
-SD<-read_xlsx("C:/Users/DETPC/Documents/R/github/gv2050party/General.xlsx")
+SD<-read_xlsx("C:/Users/DETPC/Documents/R/github/Hydrogel/General.xlsx")
 SD
 XA = SD%>%
   group_by(CODIGO)%>%
@@ -47,7 +47,7 @@ DF= FA%>% add_column(HMAX=NA)
 DF
 DF$HMAX= XA$HMAX[match(FA$CODIGO, XA$CODIGO)]
 DF
-setwd("C:/Users/DETPC/Documents/R/github/gv2050party/")
+setwd("C:/Users/DETPC/Documents/R/github/Hydrogel/")
 write.csv(DF, "SUM3.csv")
 
 
@@ -60,7 +60,7 @@ write.csv(DF, "SUM3.csv")
 #       WHAT IS THE EFFECT OF TREATMENTS ON BRASSICA PRODUCTIVITY OF WET SEASON IN SANTA CRUZ?
 #############################
 
-BA<-read_xlsx("C:/Users/DETPC/Documents/R/github/gv2050party/Brassica/BRAS.xlsx")
+BA<-read_xlsx("C:/Users/DETPC/Documents/R/github/Hydrogel/Brassica/BRAS.xlsx")
 BA
 #PRODUCTIVITY
 oldpar=par(mai=c(2,0.5,0.5,0.5))
@@ -94,7 +94,7 @@ oldpar=par(mai=c(2,0.5,0.5,0.5))
 boxplot(HMAX~Treatment, data=BA,las=2)
 #No transformation
 BA$Treatment=as.factor(BA$Treatment)
-modelSO<- lm(IFW~Treatment,data=BA)
+modelSO<- lm(HMAX~Treatment,data=BA)
 modelSO
 Anova(modelSO, type="II")
 xSO = (residuals(modelSO))
@@ -114,7 +114,7 @@ res2
 res2$r
 # Extract p-values
 res2$P
-setwd("C:/Users/DETPC/Documents/R/github/gv2050party/Brassica/")
+setwd("C:/Users/DETPC/Documents/R/github/Hydrogel/Brassica/")
 write.csv(res2$P,"BRACORH.csv", row.names = TRUE)
 library(corrplot)
 corrplot(res, type = "upper", order = "hclust", 
@@ -161,10 +161,10 @@ corrplot(res2$r, type="upper", order="hclust",
 #
 ############################################################################
 ##############################################################################################
-#       WHAT IS THE EFFECT OF TREATMENTS ON CAPSICUM PRODUCTIVITY IN  SANTA CRUZ?
+#       WHAT IS THE EFFECT OF TREATMENTS ON CAPSICUM PRODUCTIVITY IN  SANTA CRUZ WITH HYDROGEL?
 ##############################################################################################
 
-CA<-read_xlsx("C:/Users/DETPC/Documents/R/github/gv2050party/Capsicum/CAPS.xlsx")
+CA<-read_xlsx("C:/Users/DETPC/Documents/R/github/Hydrogel/Capsicum/CAPS1.xlsx")
 CA
 oldpar=par(mai=c(2,0.5,0.5,0.5))
 boxplot(Productivity~Treatment, data=CA,las=2)
@@ -207,7 +207,7 @@ text(1:4,7,lab=c("ab",  "a", "b"),
      cex=2, las=3)
 
 #####################################################################################
-#       WHAT IS THE EFFECT OF TREATMENTS ON CAPSICUM NUMBER OF FRUITS IN  SANTA CRUZ?
+#       WHAT IS THE EFFECT OF TREATMENTS ON CAPSICUM NUMBER OF FRUITS IN  SANTA CRUZ WITH HYDROGEL?
 #####################################################################################
 
 boxplot(Fruits~Treatment, data=CA,las=2)
@@ -248,7 +248,7 @@ text(1:4,70,lab=c("ab",  "a", "b"),
      cex=2, las=3)
 
 #####################################################################################
-#       WHAT IS THE EFFECT OF TREATMENTS ON CAPSICUM IFW  IN SANTA CRUZ?
+#       WHAT IS THE EFFECT OF TREATMENTS ON CAPSICUM IFW  IN SANTA CRUZ WITH HYDROGEL?
 #####################################################################################
 
 boxplot(IFW~Treatment, data=CA,las=2)
@@ -289,7 +289,7 @@ text(1:4,0.20,lab=c("b",  "a", "b"),
      cex=2, las=3)
 
 #####################################################################################
-#       WHAT IS THE EFFECT OF TREATMENTS ON CAPSICUM HMAX  IN SANTA CRUZ?
+#       WHAT IS THE EFFECT OF TREATMENTS ON CAPSICUM HMAX  IN SANTA CRUZ WITH HYDROGEL?
 #####################################################################################
 
 boxplot(HMAX~Treatment, data=CA,las=2)
@@ -406,6 +406,253 @@ corrplot(res2$r, type="upper", order="hclust",
 corrplot(res2$r, type="upper", order="hclust", 
          p.mat = res2$P, sig.level = 0.05, insig = "blank")
 
+
+
+##############################################################################################
+#       WHAT IS THE EFFECT OF TREATMENTS ON CAPSICUM PRODUCTIVITY IN  SANTA CRUZ WITH GROWBOXX?
+##############################################################################################
+
+CA<-read_xlsx("C:/Users/DETPC/Documents/R/github/Hydrogel/Capsicum/CAPS2.xlsx")
+CA
+oldpar=par(mai=c(2,0.5,0.5,0.5))
+boxplot(Productivity~Treatment, data=CA,las=2)
+#No transformation
+CA$Treatment=as.factor(CA$Treatment)
+modelCA1<- lm(Productivity~Treatment,data=CA) 
+modelCA1
+Anova(modelCA1, type="II")
+#modelCA2=lme(Productivity~Treatment, random = ~ 1 | Zona,data=CA)
+#modelCA2
+#Anova(modelCA2, type="II")
+#AIC(modelCA1)
+#AIC(modelCA2)
+#xCA = (residuals(modelCA2))
+#xCA
+TUKEYCA1<- summary(glht(modelCA1, linfct = mcp(Treatment= "Tukey")), test = adjusted("holm"))
+TUKEYCA1
+summary(TUKEYCA1)
+tCA1<- glht(modelCA1, linfct = mcp(Treatment= "Tukey"))
+t.cldCA1 <- cld(tCA1)   # letter-based display
+t.cldCA1
+oldpar=par(mai=c(1.4,1,1,1),no.readonly = T)
+myColors <-        ifelse(levels(CA$Treatment)=="Control" , rgb(0.8,0.8,0.8,1) , 
+                          ifelse(levels(CA$Treatment)=="Growboxx", rgb(0.6,0.6,0.5,1),
+                                 ifelse(levels(CA$Treatment)=="Hidrogel", rgb(1,1,1,1),     
+                                        "grey90" )))
+
+
+plot(t.cldCA1, cex.main=0.5, cex.lab=0.75, cex.axis=0.75, las=2, col=myColors)
+
+boxplot(Productivity~Treatment,main=" I)",cex.main=3, 
+        ylab="Capsicum Maximum plant height (cm) -  Santa Cruz", xlab = "" ,
+        cex.lab=1.5,axes=F, ylim=c(0,7),frame=T, data=CA, col=myColors)
+axis(2, cex.axis=1.25);
+axis(1,at=1:3,labels=c("Control",   
+                       "Growboxx",
+                       "Hydrogel"
+),cex.axis=1.5, las=2)
+text(1:4,7,lab=c("ab",  "a", "b"),
+     cex=2, las=3)
+
+#####################################################################################
+#       WHAT IS THE EFFECT OF TREATMENTS ON CAPSICUM NUMBER OF FRUITS IN  SANTA CRUZ WITH GROWBOXX?
+#####################################################################################
+
+boxplot(Fruits~Treatment, data=CA,las=2)
+#No transformation
+CA$Treatment=as.factor(CA$Treatment)
+modelCA1<- lm(Fruits~Treatment,data=CA) 
+modelCA1
+Anova(modelCA1, type="II")
+#modelCA2=lme(Fruts~Treatment, random = ~ 1 | Zona,data=CA)
+#modelCA2
+#Anova(modelCA2, type="II")
+#AIC(modelCA1)
+#AIC(modelCA2)
+TUKEYCA1<- summary(glht(modelCA1, linfct = mcp(Treatment= "Tukey")), test = adjusted("holm"))
+TUKEYCA1
+summary(TUKEYCA1)
+tCA1<- glht(modelCA1, linfct = mcp(Treatment= "Tukey"))
+t.cldCA1 <- cld(tCA1)   # letter-based display
+t.cldCA1
+oldpar=par(mai=c(1.4,1,1,1),no.readonly = T)
+myColors <-        ifelse(levels(CA$Treatment)=="Control" , rgb(0.8,0.8,0.8,1) , 
+                          ifelse(levels(CA$Treatment)=="Growboxx", rgb(0.6,0.6,0.5,1),
+                                 ifelse(levels(CA$Treatment)=="Hidrogel", rgb(1,1,1,1),     
+                                        "grey90" )))
+
+
+plot(t.cldCA1, cex.main=0.5, cex.lab=0.75, cex.axis=0.75, las=2, col=myColors)
+
+boxplot(Fruits~Treatment,main=" II)",cex.main=3, 
+        ylab="Capsicum Maximum plant height (cm) -  Santa Cruz", xlab = "" ,
+        cex.lab=1.5,axes=F, ylim=c(0,70),frame=T, data=CA, col=myColors)
+axis(2, cex.axis=1.25);
+axis(1,at=1:3,labels=c("Control",   
+                       "Growboxx",
+                       "Hydrogel"
+),cex.axis=1.5, las=2)
+text(1:4,70,lab=c("ab",  "a", "b"),
+     cex=2, las=3)
+
+#####################################################################################
+#       WHAT IS THE EFFECT OF TREATMENTS ON CAPSICUM IFW  IN SANTA CRUZ WITH GROWBOXX?
+#####################################################################################
+
+boxplot(IFW~Treatment, data=CA,las=2)
+#No transformation
+CA$Treatment=as.factor(CA$Treatment)
+modelCA1<- lm(IFW~Treatment,data=CA) 
+modelCA1
+Anova(modelCA1, type="II")
+#modelCA2=lme(Fruts~Treatment, random = ~ 1 | Zona,data=CA)
+#modelCA2
+#Anova(modelCA2, type="II")
+#AIC(modelCA1)
+#AIC(modelCA2)
+TUKEYCA1<- summary(glht(modelCA1, linfct = mcp(Treatment= "Tukey")), test = adjusted("holm"))
+TUKEYCA1
+summary(TUKEYCA1)
+tCA1<- glht(modelCA1, linfct = mcp(Treatment= "Tukey"))
+t.cldCA1 <- cld(tCA1)   # letter-based display
+t.cldCA1
+oldpar=par(mai=c(1.4,1,1,1),no.readonly = T)
+myColors <-        ifelse(levels(CA$Treatment)=="Control" , rgb(0.8,0.8,0.8,1) , 
+                          ifelse(levels(CA$Treatment)=="Growboxx", rgb(0.6,0.6,0.5,1),
+                                 ifelse(levels(CA$Treatment)=="Hidrogel", rgb(1,1,1,1),     
+                                        "grey90" )))
+
+
+plot(t.cldCA1, cex.main=0.5, cex.lab=0.75, cex.axis=0.75, las=2, col=myColors)
+
+boxplot(IFW~Treatment,main=" III)",cex.main=3, 
+        ylab="Capsicum Maximum plant height (cm) -  Santa Cruz", xlab = "" ,
+        cex.lab=1.5,axes=F, ylim=c(0,0.20),frame=T, data=CA, col=myColors)
+axis(2, cex.axis=1.25);
+axis(1,at=1:3,labels=c("Control",   
+                       "Growboxx",
+                       "Hydrogel"
+),cex.axis=1.5, las=2)
+text(1:4,0.20,lab=c("b",  "a", "b"),
+     cex=2, las=3)
+
+#####################################################################################
+#       WHAT IS THE EFFECT OF TREATMENTS ON CAPSICUM HMAX  IN SANTA CRUZ WITH GROWBOXX?
+#####################################################################################
+
+boxplot(HMAX~Treatment, data=CA,las=2)
+#No transformation
+CA$Treatment=as.factor(CA$Treatment)
+modelCA1<- lm(HMAX~Treatment,data=CA) 
+modelCA1
+Anova(modelCA1, type="II")
+#modelCA2=lme(Fruts~Treatment, random = ~ 1 | Zona,data=CA)
+#modelCA2
+#Anova(modelCA2, type="II")
+#AIC(modelCA1)
+#AIC(modelCA2)
+###### NON SIGNIFICANT RESULTS
+TUKEYCA1<- summary(glht(modelCA1, linfct = mcp(Treatment= "Tukey")), test = adjusted("holm"))
+TUKEYCA1
+summary(TUKEYCA1)
+tCA1<- glht(modelCA1, linfct = mcp(Treatment= "Tukey"))
+t.cldCA1 <- cld(tCA1)   # letter-based display
+t.cldCA1
+oldpar=par(mai=c(1.4,1,1,1),no.readonly = T)
+myColors <-        ifelse(levels(CA$Treatment)=="Control" , rgb(0.8,0.8,0.8,1) , 
+                          ifelse(levels(CA$Treatment)=="Growboxx", rgb(0.6,0.6,0.5,1),
+                                 ifelse(levels(CA$Treatment)=="Hidrogel", rgb(1,1,1,1),     
+                                        "grey90" )))
+
+
+plot(t.cldCA1, cex.main=0.5, cex.lab=0.75, cex.axis=0.75, las=2, col=myColors)
+
+boxplot(HMAX~Treatment,main=" III)",cex.main=3, 
+        ylab="Capsicum Maximum plant height (cm) -  Santa Cruz", xlab = "" ,
+        cex.lab=1.5,axes=F, ylim=c(0,270),frame=T, data=CA, col=myColors)
+axis(2, cex.axis=1.25);
+axis(1,at=1:3,labels=c("Control",   
+                       "Growboxx",
+                       "Hydrogel"
+),cex.axis=1.5, las=2)
+text(1:4,270,lab=c("b",  "a", "b"),
+     cex=2, las=3)
+
+##############Correlation Matrix-Capsicum########################
+##Hydrogel##
+df=CA%>% filter(Treatment=="Hidrogel")%>% select(Productivity,Fruits, IFW, HMAX)
+df
+res <- cor(df)
+round(res, 2)
+cor(df, use = "complete.obs")
+library("Hmisc")
+res2 <- rcorr(as.matrix(df))
+res2
+# Extract the correlation coefficients
+res2$r
+# Extract p-values
+res2$P
+setwd("C:/Users/DETPC/Documents/R/github/gv2050party/Capsicum/")
+write.csv(res2$P,"CAPCORH.csv", row.names = TRUE)
+library(corrplot)
+corrplot(res, type = "upper", order = "hclust", 
+         tl.col = "black", tl.srt = 45)
+# Insignificant correlation are crossed
+corrplot(res2$r, type="upper", order="hclust", 
+         p.mat = res2$P, sig.level = 0.05, insig = "blank")
+# Insignificant correlations are leaved blank
+corrplot(res2$r, type="upper", order="hclust", 
+         p.mat = res2$P, sig.level = 0.05, insig = "blank")
+##Growboxx##
+df=CA%>% filter(Treatment=="Growboxx")%>% select(Productivity,Fruits, IFW, HMAX)
+df
+res <- cor(df)
+round(res, 2)
+cor(df, use = "complete.obs")
+library("Hmisc")
+res2 <- rcorr(as.matrix(df))
+res2
+# Extract the correlation coefficients
+res2$r
+# Extract p-values
+res2$P
+setwd("C:/Users/DETPC/Documents/R/github/gv2050party/Capsicum/")
+write.csv(res2$P,"CAPCORG.csv", row.names = TRUE)
+library(corrplot)
+corrplot(res, type = "upper", order = "hclust", 
+         tl.col = "black", tl.srt = 45)
+# Insignificant correlation are crossed
+corrplot(res2$r, type="upper", order="hclust", 
+         p.mat = res2$P, sig.level = 0.05, insig = "blank")
+# Insignificant correlations are leaved blank
+corrplot(res2$r, type="upper", order="hclust", 
+         p.mat = res2$P, sig.level = 0.05, insig = "blank")
+
+
+##Control##
+df=CA%>% filter(Treatment=="Control")%>% select(Productivity, Fruits, IFW, HMAX)
+df
+res <- cor(df)
+round(res, 2)
+cor(df, use = "complete.obs")
+library("Hmisc")
+res2 <- rcorr(as.matrix(df))
+res2
+# Extract the correlation coefficients
+res2$r
+# Extract p-values
+res2$P
+setwd("C:/Users/DETPC/Documents/R/github/gv2050party/Capsicum/")
+write.csv(res2$P,"CAPCORC.csv", row.names = TRUE)
+library(corrplot)
+corrplot(res, type = "upper", order = "hclust", 
+         tl.col = "black", tl.srt = 45)
+# Insignificant correlation are crossed
+corrplot(res2$r, type="upper", order="hclust", 
+         p.mat = res2$P, sig.level = 0.05, insig = "blank")
+# Insignificant correlations are leaved blank
+corrplot(res2$r, type="upper", order="hclust", 
+         p.mat = res2$P, sig.level = 0.05, insig = "blank")
 
 
 ############################################################################

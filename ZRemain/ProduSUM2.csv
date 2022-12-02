@@ -1,0 +1,600 @@
+,CODIGO,Frutos,Productividad,IFW,date,Treatment,Island,Species
+1,1720,1,0.103,0.103,02/09/2018,Control,Santa Cruz,Solanum lycopersicum
+193,7093,23,4.035,0.175434783,02/09/2018,Hidrogel,Santa Cruz,Solanum lycopersicum
+195,7094,20,3.671,0.18355,15/02/2018,Hidrogel,Santa Cruz,Solanum lycopersicum
+196,7095,16,2.393,0.1495625,02/12/2018,Hidrogel,Santa Cruz,Solanum lycopersicum
+197,7096,27,4.714,0.174592593,02/09/2018,Hidrogel,Santa Cruz,Solanum lycopersicum
+198,7097,23,4.218,0.183391304,02/12/2018,Hidrogel,Santa Cruz,Solanum lycopersicum
+199,7097,23,4.218,0.183391304,02/12/2018,Control,Santa Cruz,Solanum lycopersicum
+200,7098,23,3.696,0.160695652,02/12/2018,Hidrogel,Santa Cruz,Solanum lycopersicum
+201,7099,27,3.996,0.148,02/09/2018,Hidrogel,Santa Cruz,Solanum lycopersicum
+202,7100,19,3.352,0.176421053,02/12/2018,Hidrogel,Santa Cruz,Solanum lycopersicum
+203,7101,29,4.503,0.155275862,02/12/2018,Hidrogel,Santa Cruz,Solanum lycopersicum
+204,7102,21,1.952,0.092952381,02/12/2018,Hidrogel,Santa Cruz,Solanum lycopersicum
+205,7103,33,3.187,0.096575758,02/12/2018,Control,Santa Cruz,Solanum lycopersicum
+206,7103,33,3.187,0.096575758,02/12/2018,Hidrogel,Santa Cruz,Solanum lycopersicum
+207,7104,36,3.942,0.1095,02/09/2018,Control,Santa Cruz,Solanum lycopersicum
+208,7105,29,3.718,0.128206897,02/12/2018,Control,Santa Cruz,Solanum lycopersicum
+209,7106,26,2.767,0.106423077,02/09/2018,Control,Santa Cruz,Solanum lycopersicum
+210,7107,21,2.142,0.102,02/12/2018,Control,Santa Cruz,Solanum lycopersicum
+211,7108,20,2.282,0.1141,02/09/2018,Control,Santa Cruz,Solanum lycopersicum
+212,7109,22,3.624,0.164727273,02/09/2018,Control,Santa Cruz,Solanum lycopersicum
+213,7110,21,2.493,0.118714286,02/12/2018,Control,Santa Cruz,Solanum lycopersicum
+214,7111,32,3.786,0.1183125,02/09/2018,Control,Santa Cruz,Solanum lycopersicum
+215,7112,31,4.078,0.131548387,02/12/2018,Control,Santa Cruz,Solanum lycopersicum
+216,7113,31,3.115,0.100483871,02/12/2018,Control,Santa Cruz,Solanum lycopersicum
+217,7114,22,2.348,0.106727273,02/09/2018,Control,Santa Cruz,Solanum lycopersicum
+218,7114,22,2.348,0.106727273,02/09/2018,Hidrogel,Santa Cruz,Solanum lycopersicum
+219,7115,22,1.769,0.080409091,02/12/2018,Control,Santa Cruz,Solanum lycopersicum
+220,7116,15,1.645,0.109666667,02/12/2018,Control,Santa Cruz,Solanum lycopersicum
+221,7117,24,1.986,0.08275,02/12/2018,Control,Santa Cruz,Solanum lycopersicum
+222,7118,24,2.463,0.102625,02/12/2018,Control,Santa Cruz,Solanum lycopersicum
+223,7118,24,2.463,0.102625,02/12/2018,Hidrogel,Santa Cruz,Solanum lycopersicum
+224,7119,28,2.002,0.0715,02/12/2018,Hidrogel,Santa Cruz,Solanum lycopersicum
+225,7119,28,2.002,0.0715,02/12/2018,Control,Santa Cruz,Solanum lycopersicum
+226,7120,21,1.917,0.091285714,02/09/2018,Control,Santa Cruz,Solanum lycopersicum
+227,7120,21,1.917,0.091285714,02/09/2018,Hidrogel,Santa Cruz,Solanum lycopersicum
+228,7121,19,1.765,0.092894737,02/12/2018,Hidrogel,Santa Cruz,Solanum lycopersicum
+229,7121,19,1.765,0.092894737,02/12/2018,Control,Santa Cruz,Solanum lycopersicum
+230,7122,41,5.429,0.132414634,02/12/2018,Control,Santa Cruz,Solanum lycopersicum
+231,7122,41,5.429,0.132414634,02/12/2018,Hidrogel,Santa Cruz,Solanum lycopersicum
+232,7123,24,2.299,0.095791667,02/12/2018,Control,Santa Cruz,Solanum lycopersicum
+233,7173,1,0.095,0.095,15/02/2018,Control,Santa Cruz,Solanum lycopersicum
+235,7197,33,3.316,0.100484848,03/09/2018,Hidrogel,Santa Cruz,Capsicum annuum
+255,7217,49,4.699,0.095897959,03/09/2018,Hidrogel,Santa Cruz,Capsicum annuum
+256,7218,50,4.82,0.0964,03/09/2018,Hidrogel,Santa Cruz,Capsicum annuum
+257,7219,32,4.261,0.13315625,03/09/2018,Hidrogel,Santa Cruz,Capsicum annuum
+258,7220,52,4.697,0.090326923,03/09/2018,Hidrogel,Santa Cruz,Capsicum annuum
+259,7221,46,4.213,0.091586957,03/09/2018,Hidrogel,Santa Cruz,Capsicum annuum
+260,7222,46,4.165,0.090543478,03/09/2018,Hidrogel,Santa Cruz,Capsicum annuum
+261,7223,49,4.293,0.087612245,03/09/2018,Hidrogel,Santa Cruz,Capsicum annuum
+262,7224,63,6.081,0.09652381,03/09/2018,Hidrogel,Santa Cruz,Capsicum annuum
+263,7225,50,4.533,0.09066,03/09/2018,Hidrogel,Santa Cruz,Capsicum annuum
+264,7226,44,4.312,0.098,03/09/2018,Hidrogel,Santa Cruz,Capsicum annuum
+265,7227,39,3.972,0.101846154,03/09/2018,Control,Santa Cruz,Capsicum annuum
+266,7227,39,3.972,0.101846154,03/09/2018,Hidrogel,Santa Cruz,Capsicum annuum
+267,7228,18,1.947,0.108166667,03/09/2018,Control,Santa Cruz,Capsicum annuum
+268,7228,18,1.947,0.108166667,03/09/2018,Hidrogel,Santa Cruz,Capsicum annuum
+269,7229,53,5.606,0.105773585,03/09/2018,Control,Santa Cruz,Capsicum annuum
+270,7229,53,5.606,0.105773585,03/09/2018,Hidrogel,Santa Cruz,Capsicum annuum
+271,7230,27,3.279,0.121444444,03/09/2018,Control,Santa Cruz,Capsicum annuum
+272,7230,27,3.279,0.121444444,03/09/2018,Hidrogel,Santa Cruz,Capsicum annuum
+273,7231,30,3.453,0.1151,03/09/2018,Control,Santa Cruz,Capsicum annuum
+274,7231,30,3.453,0.1151,03/09/2018,Hidrogel,Santa Cruz,Capsicum annuum
+275,7232,22,2.433,0.110590909,03/09/2018,Control,Santa Cruz,Capsicum annuum
+276,7232,22,2.433,0.110590909,03/09/2018,Hidrogel,Santa Cruz,Capsicum annuum
+277,7233,39,4.644,0.119076923,03/09/2018,Control,Santa Cruz,Capsicum annuum
+278,7233,39,4.644,0.119076923,03/09/2018,Hidrogel,Santa Cruz,Capsicum annuum
+279,7234,32,3.203,0.10009375,03/09/2018,Control,Santa Cruz,Capsicum annuum
+280,7234,32,3.203,0.10009375,03/09/2018,Hidrogel,Santa Cruz,Capsicum annuum
+281,7235,30,3.208,0.106933333,03/09/2018,Control,Santa Cruz,Capsicum annuum
+282,7235,30,3.208,0.106933333,03/09/2018,Hidrogel,Santa Cruz,Capsicum annuum
+283,7236,47,4.907,0.104404255,03/09/2018,Control,Santa Cruz,Capsicum annuum
+284,7236,47,4.907,0.104404255,03/09/2018,Hidrogel,Santa Cruz,Capsicum annuum
+285,7237,26,3.006,0.115615385,03/09/2018,Control,Santa Cruz,Capsicum annuum
+286,7237,26,3.006,0.115615385,03/09/2018,Hidrogel,Santa Cruz,Capsicum annuum
+287,7238,42,4.612,0.109809524,03/09/2018,Control,Santa Cruz,Capsicum annuum
+288,7238,42,4.612,0.109809524,03/09/2018,Hidrogel,Santa Cruz,Capsicum annuum
+289,7239,25,2.861,0.11444,03/09/2018,Control,Santa Cruz,Capsicum annuum
+290,7239,25,2.861,0.11444,03/09/2018,Hidrogel,Santa Cruz,Capsicum annuum
+291,7240,39,4.701,0.120538462,03/09/2018,Control,Santa Cruz,Capsicum annuum
+292,7240,39,4.701,0.120538462,03/09/2018,Hidrogel,Santa Cruz,Capsicum annuum
+293,7241,35,4.285,0.122428571,03/09/2018,Control,Santa Cruz,Capsicum annuum
+294,7241,35,4.285,0.122428571,03/09/2018,Hidrogel,Santa Cruz,Capsicum annuum
+295,7242,52,5.276,0.101461538,03/09/2018,Control,Santa Cruz,Capsicum annuum
+296,7242,52,5.276,0.101461538,03/09/2018,Hidrogel,Santa Cruz,Capsicum annuum
+297,7243,39,3.852,0.098769231,03/09/2018,Control,Santa Cruz,Capsicum annuum
+298,7243,39,3.852,0.098769231,03/09/2018,Hidrogel,Santa Cruz,Capsicum annuum
+299,7244,33,3.176,0.096242424,02/09/2018,Control,Santa Cruz,Capsicum annuum
+300,7244,33,3.176,0.096242424,02/09/2018,Hidrogel,Santa Cruz,Capsicum annuum
+301,7245,15,1.369,0.091266667,03/09/2018,Control,Santa Cruz,Capsicum annuum
+302,7245,15,1.369,0.091266667,03/09/2018,Hidrogel,Santa Cruz,Capsicum annuum
+303,7247,1,0.484,0.484,02/12/2018,Hidrogel,Santa Cruz,Brassica oleracea
+304,7249,1,0.228,0.228,02/12/2018,Hidrogel,Santa Cruz,Brassica oleracea
+305,7250,1,0.435,0.435,29/01/2018,Hidrogel,Santa Cruz,Brassica oleracea
+306,7252,1,0.378,0.378,02/09/2018,Hidrogel,Santa Cruz,Brassica oleracea
+307,7253,1,0.37,0.37,02/09/2018,Hidrogel,Santa Cruz,Brassica oleracea
+308,7258,1,0.59,0.59,05/02/2018,Hidrogel,Santa Cruz,Brassica oleracea
+309,7260,1,0.532,0.532,29/01/2018,Hidrogel,Santa Cruz,Brassica oleracea
+310,7261,1,0.785,0.785,02/09/2018,Hidrogel,Santa Cruz,Brassica oleracea
+311,7263,1,0.726,0.726,02/12/2018,Hidrogel,Santa Cruz,Brassica oleracea
+312,7264,1,0.343,0.343,02/12/2018,Hidrogel,Santa Cruz,Brassica oleracea
+313,7265,1,0.714,0.714,29/01/2018,Hidrogel,Santa Cruz,Brassica oleracea
+314,7266,1,0.663,0.663,26/01/2018,Hidrogel,Santa Cruz,Brassica oleracea
+315,7267,1,0.375,0.375,02/12/2018,Hidrogel,Santa Cruz,Brassica oleracea
+316,7270,1,0.493,0.493,29/01/2018,Hidrogel,Santa Cruz,Brassica oleracea
+317,7272,1,0.496,0.496,05/02/2018,Hidrogel,Santa Cruz,Brassica oleracea
+318,7273,1,0.611,0.611,05/02/2018,Hidrogel,Santa Cruz,Brassica oleracea
+319,7274,1,0.533,0.533,05/02/2018,Hidrogel,Santa Cruz,Brassica oleracea
+320,7275,1,0.334,0.334,05/02/2018,Hidrogel,Santa Cruz,Brassica oleracea
+321,7276,1,0.36,0.36,15/02/2018,Hidrogel,Santa Cruz,Brassica oleracea
+322,7277,1,0.566,0.566,02/09/2018,Hidrogel,Santa Cruz,Brassica oleracea
+323,7278,1,0.499,0.499,02/12/2018,Hidrogel,Santa Cruz,Brassica oleracea
+324,7280,1,0.49,0.49,02/12/2018,Hidrogel,Santa Cruz,Brassica oleracea
+325,7281,1,0.63,0.63,29/01/2018,Hidrogel,Santa Cruz,Brassica oleracea
+326,7282,1,0.621,0.621,02/09/2018,Hidrogel,Santa Cruz,Brassica oleracea
+327,7284,1,0.655,0.655,05/02/2018,Hidrogel,Santa Cruz,Brassica oleracea
+328,7286,1,0.8,0.8,29/01/2018,Hidrogel,Santa Cruz,Brassica oleracea
+329,7287,1,0.266,0.266,15/02/2018,Hidrogel,Santa Cruz,Brassica oleracea
+330,7289,1,0.532,0.532,02/09/2018,Hidrogel,Santa Cruz,Brassica oleracea
+331,7290,1,0.435,0.435,29/01/2018,Hidrogel,Santa Cruz,Brassica oleracea
+332,7291,1,0.447,0.447,02/12/2018,Hidrogel,Santa Cruz,Brassica oleracea
+333,7292,1,0.21,0.21,15/02/2018,Hidrogel,Santa Cruz,Brassica oleracea
+334,7293,1,0.59,0.59,05/02/2018,Hidrogel,Santa Cruz,Brassica oleracea
+335,7294,1,0.334,0.334,02/12/2018,Hidrogel,Santa Cruz,Brassica oleracea
+336,7295,1,0.4,0.4,15/02/2018,Hidrogel,Santa Cruz,Brassica oleracea
+337,7296,1,0.334,0.334,02/12/2018,Hidrogel,Santa Cruz,Brassica oleracea
+338,7298,1,0.553,0.553,02/09/2018,Hidrogel,Santa Cruz,Brassica oleracea
+339,7300,1,0.394,0.394,02/09/2018,Hidrogel,Santa Cruz,Brassica oleracea
+340,7301,1,0.529,0.529,15/02/2018,Hidrogel,Santa Cruz,Brassica oleracea
+341,7305,1,0.099,0.099,29/01/2018,Hidrogel,Santa Cruz,Brassica oleracea
+342,7306,1,0.088,0.088,06/04/2018,Hidrogel,Santa Cruz,Brassica oleracea
+343,7307,1,0.4,0.4,15/02/2018,Hidrogel,Santa Cruz,Brassica oleracea
+344,7308,1,0.4,0.4,02/09/2018,Hidrogel,Santa Cruz,Brassica oleracea
+345,7309,1,0.21,0.21,02/09/2018,Hidrogel,Santa Cruz,Brassica oleracea
+346,7310,1,0.28,0.28,02/12/2018,Hidrogel,Santa Cruz,Brassica oleracea
+347,7311,1,0.344,0.344,02/12/2018,Hidrogel,Santa Cruz,Brassica oleracea
+348,7312,1,0.319,0.319,02/09/2018,Hidrogel,Santa Cruz,Brassica oleracea
+349,7313,1,0.167,0.167,02/09/2018,Hidrogel,Santa Cruz,Brassica oleracea
+350,7314,1,0.279,0.279,02/12/2018,Control,Santa Cruz,Brassica oleracea
+351,7315,1,0.826,0.826,02/09/2018,Hidrogel,Santa Cruz,Brassica oleracea
+352,7316,1,0.539,0.539,29/01/2018,Hidrogel,Santa Cruz,Brassica oleracea
+353,7317,1,0.324,0.324,02/09/2018,Hidrogel,Santa Cruz,Brassica oleracea
+354,7320,1,0.575,0.575,26/01/2018,Hidrogel,Santa Cruz,Brassica oleracea
+355,7321,1,0.099,0.099,15/02/2018,Hidrogel,Santa Cruz,Brassica oleracea
+356,7323,1,0.578,0.578,29/01/2018,Hidrogel,Santa Cruz,Brassica oleracea
+357,7324,1,0.607,0.607,06/04/2018,Hidrogel,Santa Cruz,Brassica oleracea
+358,7325,1,0.465,0.465,29/01/2018,Hidrogel,Santa Cruz,Brassica oleracea
+359,7326,1,0.25,0.25,02/12/2018,Hidrogel,Santa Cruz,Brassica oleracea
+360,7327,1,0.308,0.308,05/02/2018,Control,Santa Cruz,Brassica oleracea
+361,7328,1,0.246,0.246,02/09/2018,Hidrogel,Santa Cruz,Brassica oleracea
+362,7330,1,0.542,0.542,15/02/2018,Hidrogel,Santa Cruz,Brassica oleracea
+363,7331,1,0.483,0.483,02/09/2018,Control,Santa Cruz,Brassica oleracea
+364,7332,1,0.496,0.496,05/02/2018,Control,Santa Cruz,Brassica oleracea
+365,7333,1,0.41,0.41,02/12/2018,Control,Santa Cruz,Brassica oleracea
+366,7334,1,0.711,0.711,05/02/2018,Control,Santa Cruz,Brassica oleracea
+367,7335,1,0.266,0.266,02/09/2018,Control,Santa Cruz,Brassica oleracea
+368,7336,1,0.38,0.38,02/12/2018,Control,Santa Cruz,Brassica oleracea
+369,7337,1,0.641,0.641,29/01/2018,Control,Santa Cruz,Brassica oleracea
+370,7338,1,0.22,0.22,02/12/2018,Control,Santa Cruz,Brassica oleracea
+371,7339,1,0.287,0.287,02/09/2018,Control,Santa Cruz,Brassica oleracea
+372,7342,1,0.565,0.565,26/01/2018,Control,Santa Cruz,Brassica oleracea
+373,7345,1,0.593,0.593,05/02/2018,Control,Santa Cruz,Brassica oleracea
+374,7347,1,0.545,0.545,05/02/2018,Control,Santa Cruz,Brassica oleracea
+375,7348,1,0.22,0.22,02/09/2018,Control,Santa Cruz,Brassica oleracea
+376,7352,1,0.777,0.777,02/09/2018,Control,Santa Cruz,Brassica oleracea
+377,7354,1,0.607,0.607,15/02/2018,Control,Santa Cruz,Brassica oleracea
+378,7363,1,0.372,0.372,02/09/2018,Control,Santa Cruz,Brassica oleracea
+379,7364,1,0.285,0.285,05/02/2018,Control,Santa Cruz,Brassica oleracea
+380,7367,1,0.495,0.495,05/02/2018,Control,Santa Cruz,Brassica oleracea
+381,7368,1,0.672,0.672,29/01/2018,Control,Santa Cruz,Brassica oleracea
+382,7373,1,0.713,0.713,29/01/2018,Control,Santa Cruz,Brassica oleracea
+383,7376,1,0.303,0.303,05/02/2018,Control,Santa Cruz,Brassica oleracea
+384,7382,1,0.47,0.47,05/02/2018,Control,Santa Cruz,Brassica oleracea
+385,7385,1,0.777,0.777,29/01/2018,Control,Santa Cruz,Brassica oleracea
+386,7386,1,0.81,0.81,29/01/2018,Control,Santa Cruz,Brassica oleracea
+387,7387,1,0.577,0.577,29/01/2018,Control,Santa Cruz,Brassica oleracea
+388,7389,1,0.099,0.099,15/02/2018,Control,Santa Cruz,Brassica oleracea
+389,7394,1,0.442,0.442,02/09/2018,Control,Santa Cruz,Brassica oleracea
+390,7396,1,0.432,0.432,15/02/2018,Control,Santa Cruz,Brassica oleracea
+391,7401,1,0.386,0.386,05/02/2018,Control,Santa Cruz,Brassica oleracea
+392,7404,1,0.342,0.342,02/12/2018,Control,Santa Cruz,Brassica oleracea
+393,7405,1,0.432,0.432,02/09/2018,Control,Santa Cruz,Brassica oleracea
+394,7406,1,0.214,0.214,02/12/2018,Control,Santa Cruz,Brassica oleracea
+395,7411,5,0.547,0.1094,23/03/2018,Hidrogel,Santa Cruz,Solanum lycopersicum
+396,7413,1,0.074,0.074,13/04/2018,Hidrogel,Santa Cruz,Solanum lycopersicum
+397,7414,8,2.012,0.2515,02/09/2018,Hidrogel,Santa Cruz,Solanum lycopersicum
+398,7415,1,0.186,0.186,19/03/2018,Hidrogel,Santa Cruz,Solanum lycopersicum
+399,7416,15,2.529,0.1686,02/12/2018,Hidrogel,Santa Cruz,Solanum lycopersicum
+400,7417,1,0.128,0.128,23/03/2018,Hidrogel,Santa Cruz,Solanum lycopersicum
+401,7418,8,1.553,0.194125,02/09/2018,Hidrogel,Santa Cruz,Solanum lycopersicum
+402,7419,3,0.762,0.254,03/09/2018,Hidrogel,Santa Cruz,Solanum lycopersicum
+403,7420,11,1.572,0.142909091,03/09/2018,Hidrogel,Santa Cruz,Solanum lycopersicum
+404,7421,3,0.328,0.109333333,13/04/2018,Hidrogel,Santa Cruz,Solanum lycopersicum
+405,7423,20,3.106,0.1553,03/09/2018,Hidrogel,Santa Cruz,Solanum lycopersicum
+406,7424,3,0.367,0.122333333,23/03/2018,Hidrogel,Santa Cruz,Solanum lycopersicum
+407,7426,22,4.253,0.193318182,03/09/2018,Hidrogel,Santa Cruz,Solanum lycopersicum
+408,7427,20,3.575,0.17875,02/12/2018,Hidrogel,Santa Cruz,Solanum lycopersicum
+409,7428,16,3.676,0.22975,02/12/2018,Hidrogel,Santa Cruz,Solanum lycopersicum
+410,7429,4,0.488,0.122,13/04/2018,Hidrogel,Santa Cruz,Solanum lycopersicum
+411,7430,17,2.88,0.169411765,02/12/2018,Hidrogel,Santa Cruz,Solanum lycopersicum
+412,7431,11,1.533,0.139363636,03/09/2018,Hidrogel,Santa Cruz,Solanum lycopersicum
+413,7432,14,2.4,0.171428571,06/04/2018,Hidrogel,Santa Cruz,Solanum lycopersicum
+414,7433,22,4.243,0.192863636,02/12/2018,Hidrogel,Santa Cruz,Solanum lycopersicum
+415,7434,5,0.915,0.183,03/09/2018,Hidrogel,Santa Cruz,Solanum lycopersicum
+416,7435,14,1.973,0.140928571,03/09/2018,Hidrogel,Santa Cruz,Solanum lycopersicum
+417,7436,6,1.103,0.183833333,06/04/2018,Hidrogel,Santa Cruz,Solanum lycopersicum
+418,7437,6,1.173,0.1955,19/03/2018,Hidrogel,Santa Cruz,Solanum lycopersicum
+419,7438,5,1.04,0.208,02/09/2018,Hidrogel,Santa Cruz,Solanum lycopersicum
+420,7439,1,0.17,0.17,19/03/2018,Hidrogel,Santa Cruz,Solanum lycopersicum
+421,7440,19,3.234,0.170210526,13/04/2018,Hidrogel,Santa Cruz,Solanum lycopersicum
+422,7441,4,0.75,0.1875,02/12/2018,Hidrogel,Santa Cruz,Solanum lycopersicum
+423,7442,15,2.876,0.191733333,02/12/2018,Hidrogel,Santa Cruz,Solanum lycopersicum
+424,7443,6,0.866,0.144333333,23/03/2018,Hidrogel,Santa Cruz,Solanum lycopersicum
+425,7444,5,0.714,0.1428,13/04/2018,Hidrogel,Santa Cruz,Solanum lycopersicum
+426,7445,7,0.664,0.094857143,02/12/2018,Hidrogel,Santa Cruz,Solanum lycopersicum
+427,7446,4,1.003,0.25075,02/12/2018,Hidrogel,Santa Cruz,Solanum lycopersicum
+428,7447,24,3.424,0.142666667,03/09/2018,Hidrogel,Santa Cruz,Solanum lycopersicum
+429,7448,3,0.387,0.129,03/02/2018,Hidrogel,Santa Cruz,Solanum lycopersicum
+430,7449,33,5.84,0.176969697,02/12/2018,Hidrogel,Santa Cruz,Solanum lycopersicum
+431,7450,2,0.347,0.1735,19/03/2018,Hidrogel,Santa Cruz,Solanum lycopersicum
+432,7451,23,3.902,0.169652174,03/09/2018,Hidrogel,Santa Cruz,Solanum lycopersicum
+433,7452,3,0.489,0.163,13/04/2018,Hidrogel,Santa Cruz,Solanum lycopersicum
+434,7453,17,3.246,0.190941176,03/09/2018,Hidrogel,Santa Cruz,Solanum lycopersicum
+435,7455,19,3.642,0.191684211,03/09/2018,Hidrogel,Santa Cruz,Solanum lycopersicum
+436,7456,15,3.527,0.235133333,03/09/2018,Hidrogel,Santa Cruz,Solanum lycopersicum
+437,7457,1,0.176,0.176,02/09/2018,Hidrogel,Santa Cruz,Solanum lycopersicum
+438,7458,15,2.77,0.184666667,03/09/2018,Hidrogel,Santa Cruz,Solanum lycopersicum
+439,7459,2,0.54,0.27,13/04/2018,Hidrogel,Santa Cruz,Solanum lycopersicum
+440,7460,7,1.891,0.270142857,02/12/2018,Hidrogel,Santa Cruz,Solanum lycopersicum
+441,7461,15,2.266,0.151066667,03/09/2018,Hidrogel,Santa Cruz,Solanum lycopersicum
+442,7462,4,0.612,0.153,19/03/2018,Hidrogel,Santa Cruz,Solanum lycopersicum
+443,7463,12,2.665,0.222083333,03/09/2018,Hidrogel,Santa Cruz,Solanum lycopersicum
+444,7464,13,2.348,0.180615385,02/12/2018,Control,Santa Cruz,Solanum lycopersicum
+445,7465,3,0.594,0.198,23/02/2018,Control,Santa Cruz,Solanum lycopersicum
+446,7466,12,2.391,0.19925,02/09/2018,Control,Santa Cruz,Solanum lycopersicum
+447,7467,10,1.996,0.1996,02/09/2018,Control,Santa Cruz,Solanum lycopersicum
+448,7468,8,2.12,0.265,03/09/2018,Control,Santa Cruz,Solanum lycopersicum
+449,7470,2,0.505,0.2525,19/03/2018,Control,Santa Cruz,Solanum lycopersicum
+450,7472,17,2.712,0.159529412,02/12/2018,Control,Santa Cruz,Solanum lycopersicum
+451,7473,8,1.071,0.133875,13/04/2018,Control,Santa Cruz,Solanum lycopersicum
+452,7474,19,4.08,0.214736842,03/09/2018,Control,Santa Cruz,Solanum lycopersicum
+453,7476,19,3.703,0.194894737,02/12/2018,Control,Santa Cruz,Solanum lycopersicum
+454,7477,3,0.519,0.173,23/03/2018,Control,Santa Cruz,Solanum lycopersicum
+455,7478,17,2.928,0.172235294,02/12/2018,Control,Santa Cruz,Solanum lycopersicum
+456,7479,13,2.079,0.159923077,23/03/2018,Control,Santa Cruz,Solanum lycopersicum
+457,7480,12,1.749,0.14575,02/12/2018,Control,Santa Cruz,Solanum lycopersicum
+458,7482,14,2.149,0.1535,03/09/2018,Control,Santa Cruz,Solanum lycopersicum
+459,7484,23,4.432,0.192695652,02/12/2018,Control,Santa Cruz,Solanum lycopersicum
+460,7485,5,0.643,0.1286,06/04/2018,Control,Santa Cruz,Solanum lycopersicum
+461,7486,9,1.939,0.215444444,02/12/2018,Control,Santa Cruz,Solanum lycopersicum
+462,7487,6,0.998,0.166333333,29/03/2018,Control,Santa Cruz,Solanum lycopersicum
+463,7489,17,2.997,0.176294118,03/09/2018,Control,Santa Cruz,Solanum lycopersicum
+464,7490,25,3.926,0.15704,02/12/2018,Control,Santa Cruz,Solanum lycopersicum
+465,7491,3,0.405,0.135,19/03/2018,Control,Santa Cruz,Solanum lycopersicum
+466,7492,10,1.655,0.1655,02/09/2018,Control,Santa Cruz,Solanum lycopersicum
+467,7493,2,0.333,0.1665,13/04/2018,Control,Santa Cruz,Solanum lycopersicum
+468,7494,24,4.361,0.181708333,02/09/2018,Control,Santa Cruz,Solanum lycopersicum
+469,7495,3,0.54,0.18,06/04/2018,Control,Santa Cruz,Solanum lycopersicum
+470,7496,12,2.276,0.189666667,02/09/2018,Control,Santa Cruz,Solanum lycopersicum
+471,7497,5,1.124,0.2248,23/02/2018,Control,Santa Cruz,Solanum lycopersicum
+472,7498,6,1.109,0.184833333,06/04/2018,Control,Santa Cruz,Solanum lycopersicum
+473,7499,13,2.052,0.157846154,02/12/2018,Control,Santa Cruz,Solanum lycopersicum
+474,7500,5,0.758,0.1516,06/04/2018,Control,Santa Cruz,Solanum lycopersicum
+475,7501,16,3.001,0.1875625,02/12/2018,Control,Santa Cruz,Solanum lycopersicum
+476,7502,10,1.759,0.1759,02/12/2018,Control,Santa Cruz,Solanum lycopersicum
+477,7502,10,1.759,0.1759,02/12/2018,Hidrogel,Santa Cruz,Solanum lycopersicum
+478,7503,11,1.358,0.123454545,02/04/2018,Control,Santa Cruz,Solanum lycopersicum
+479,7504,14,2.414,0.172428571,03/09/2018,Control,Santa Cruz,Solanum lycopersicum
+480,7504,14,2.414,0.172428571,03/09/2018,Hidrogel,Santa Cruz,Solanum lycopersicum
+481,7505,24,4.378,0.182416667,02/12/2018,Control,Santa Cruz,Solanum lycopersicum
+482,7506,10,2.36,0.236,02/09/2018,Control,Santa Cruz,Solanum lycopersicum
+483,7506,10,2.36,0.236,02/09/2018,Hidrogel,Santa Cruz,Solanum lycopersicum
+484,7508,14,2.744,0.196,13/04/2018,Control,Santa Cruz,Solanum lycopersicum
+485,7511,11,1.7,0.154545455,02/09/2018,Control,Santa Cruz,Solanum lycopersicum
+486,7512,4,0.616,0.154,02/12/2018,Control,Santa Cruz,Solanum lycopersicum
+487,7513,19,3.485,0.183421053,02/09/2018,Control,Santa Cruz,Solanum lycopersicum
+488,7515,15,2.774,0.184933333,02/09/2018,Control,Santa Cruz,Solanum lycopersicum
+489,7516,1,0.09,0.09,03/09/2018,Control,Santa Cruz,Solanum lycopersicum
+510,7537,23,2.21,0.096086957,02/12/2018,Hidrogel,Santa Cruz,Solanum lycopersicum
+511,7538,21,2.404,0.11447619,03/09/2018,Hidrogel,Santa Cruz,Solanum lycopersicum
+512,7539,28,3.835,0.136964286,02/12/2018,Hidrogel,Santa Cruz,Solanum lycopersicum
+513,7540,13,1.561,0.120076923,29/03/2018,Hidrogel,Santa Cruz,Solanum lycopersicum
+514,7541,10,1.056,0.1056,03/09/2018,Hidrogel,Santa Cruz,Solanum lycopersicum
+515,7542,28,3.468,0.123857143,02/09/2018,Hidrogel,Santa Cruz,Solanum lycopersicum
+516,7543,32,3.694,0.1154375,02/12/2018,Hidrogel,Santa Cruz,Solanum lycopersicum
+517,7544,41,4.836,0.11795122,03/09/2018,Hidrogel,Santa Cruz,Solanum lycopersicum
+518,7545,19,2.23,0.117368421,02/12/2018,Hidrogel,Santa Cruz,Solanum lycopersicum
+519,7546,27,4.244,0.157185185,02/12/2018,Hidrogel,Santa Cruz,Solanum lycopersicum
+520,7547,24,2.663,0.110958333,02/09/2018,Hidrogel,Santa Cruz,Solanum lycopersicum
+521,7548,14,1.938,0.138428571,03/09/2018,Hidrogel,Santa Cruz,Solanum lycopersicum
+522,7549,19,2.85,0.15,03/09/2018,Hidrogel,Santa Cruz,Solanum lycopersicum
+523,7550,17,2.677,0.157470588,02/12/2018,Hidrogel,Santa Cruz,Solanum lycopersicum
+524,7551,28,3.629,0.129607143,02/12/2018,Hidrogel,Santa Cruz,Solanum lycopersicum
+525,7552,19,2.851,0.150052632,02/09/2018,Control,Santa Cruz,Solanum lycopersicum
+526,7553,19,2.796,0.147157895,02/09/2018,Control,Santa Cruz,Solanum lycopersicum
+527,7554,16,2.532,0.15825,03/09/2018,Control,Santa Cruz,Solanum lycopersicum
+528,7555,27,3.587,0.132851852,02/12/2018,Control,Santa Cruz,Solanum lycopersicum
+529,7556,36,4.513,0.125361111,02/12/2018,Control,Santa Cruz,Solanum lycopersicum
+530,7557,10,1.096,0.1096,03/09/2018,Control,Santa Cruz,Solanum lycopersicum
+531,7559,29,3.194,0.110137931,02/12/2018,Control,Santa Cruz,Solanum lycopersicum
+532,7560,24,3.264,0.136,03/09/2018,Control,Santa Cruz,Solanum lycopersicum
+533,7561,18,2.247,0.124833333,03/09/2018,Control,Santa Cruz,Solanum lycopersicum
+534,7562,37,4.4,0.118918919,03/09/2018,Control,Santa Cruz,Solanum lycopersicum
+535,7563,22,2.497,0.1135,02/12/2018,Control,Santa Cruz,Solanum lycopersicum
+536,7564,28,3.509,0.125321429,02/12/2018,Control,Santa Cruz,Solanum lycopersicum
+537,7565,14,1.812,0.129428571,03/09/2018,Control,Santa Cruz,Solanum lycopersicum
+538,7566,13,1.232,0.094769231,03/09/2018,Control,Santa Cruz,Solanum lycopersicum
+539,7567,19,2.409,0.126789474,03/09/2018,Control,Santa Cruz,Solanum lycopersicum
+540,7568,13,1.422,0.109384615,03/09/2018,Control,Santa Cruz,Solanum lycopersicum
+541,7569,26,3.412,0.131230769,02/09/2018,Control,Santa Cruz,Solanum lycopersicum
+542,7570,41,4.693,0.114463415,03/09/2018,Control,Santa Cruz,Solanum lycopersicum
+543,7599,1,0.175,0.175,15/02/2018,Control,Santa Cruz,Solanum lycopersicum
+564,7668,15,5.12,0.341333333,03/09/2018,Hidrogel,Santa Cruz,Cucumis sativus
+565,7669,5,1.828,0.3656,03/09/2018,Hidrogel,Santa Cruz,Cucumis sativus
+566,7670,4,1.408,0.352,02/09/2018,Hidrogel,Santa Cruz,Cucumis sativus
+567,7671,9,3.158,0.350888889,02/09/2018,Hidrogel,Santa Cruz,Cucumis sativus
+568,7672,2,0.636,0.318,02/09/2018,Hidrogel,Santa Cruz,Cucumis sativus
+569,7673,7,2.5,0.357142857,06/04/2018,Hidrogel,Santa Cruz,Cucumis sativus
+570,7674,2,0.64,0.32,15/02/2018,Hidrogel,Santa Cruz,Cucumis sativus
+571,7675,8,2.636,0.3295,03/09/2018,Hidrogel,Santa Cruz,Cucumis sativus
+572,7676,8,2.351,0.293875,06/04/2018,Hidrogel,Santa Cruz,Cucumis sativus
+573,7677,6,1.587,0.2645,02/09/2018,Hidrogel,Santa Cruz,Cucumis sativus
+574,7678,8,3.043,0.380375,06/04/2018,Hidrogel,Santa Cruz,Cucumis sativus
+575,7679,1,0.218,0.218,03/02/2018,Hidrogel,Santa Cruz,Cucumis sativus
+576,7680,10,2.646,0.2646,03/09/2018,Hidrogel,Santa Cruz,Cucumis sativus
+577,7681,11,3.845,0.349545455,03/09/2018,Hidrogel,Santa Cruz,Cucumis sativus
+578,7682,6,2.269,0.378166667,06/04/2018,Hidrogel,Santa Cruz,Cucumis sativus
+579,7683,4,1.133,0.28325,02/09/2018,Hidrogel,Santa Cruz,Cucumis sativus
+580,7684,12,4.023,0.33525,03/09/2018,Hidrogel,Santa Cruz,Cucumis sativus
+581,7685,6,1.841,0.306833333,03/09/2018,Hidrogel,Santa Cruz,Cucumis sativus
+582,7686,6,2.052,0.342,02/09/2018,Hidrogel,Santa Cruz,Cucumis sativus
+583,7687,7,2.168,0.309714286,03/09/2018,Hidrogel,Santa Cruz,Cucumis sativus
+584,7688,1,0.227,0.227,15/02/2018,Control,Santa Cruz,Cucumis sativus
+585,7689,7,2.282,0.326,06/04/2018,Control,Santa Cruz,Cucumis sativus
+586,7690,6,1.683,0.2805,03/09/2018,Control,Santa Cruz,Cucumis sativus
+587,7691,1,0.466,0.466,23/02/2018,Control,Santa Cruz,Cucumis sativus
+588,7692,15,5.333,0.355533333,03/09/2018,Control,Santa Cruz,Cucumis sativus
+589,7693,3,0.976,0.325333333,02/09/2018,Control,Santa Cruz,Cucumis sativus
+590,7694,7,2.133,0.304714286,06/04/2018,Control,Santa Cruz,Cucumis sativus
+591,7695,5,1.753,0.3506,03/09/2018,Control,Santa Cruz,Cucumis sativus
+592,7696,8,2.59,0.32375,02/09/2018,Control,Santa Cruz,Cucumis sativus
+593,7697,7,2.172,0.310285714,03/09/2018,Control,Santa Cruz,Cucumis sativus
+594,7698,6,2.036,0.339333333,03/09/2018,Control,Santa Cruz,Cucumis sativus
+595,7699,5,1.904,0.3808,06/04/2018,Control,Santa Cruz,Cucumis sativus
+596,7700,10,3.057,0.3057,03/09/2018,Control,Santa Cruz,Cucumis sativus
+597,7701,6,1.781,0.296833333,06/04/2018,Control,Santa Cruz,Cucumis sativus
+598,7702,4,1.365,0.34125,06/04/2018,Control,Santa Cruz,Cucumis sativus
+599,7703,4,1.38,0.345,03/09/2018,Control,Santa Cruz,Cucumis sativus
+600,7704,9,2.746,0.305111111,02/09/2018,Control,Santa Cruz,Cucumis sativus
+601,7705,11,3.351,0.304636364,03/09/2018,Control,Santa Cruz,Cucumis sativus
+602,7706,5,2.111,0.4222,03/09/2018,Control,Santa Cruz,Cucumis sativus
+603,7707,13,4.611,0.354692308,03/09/2018,Control,Santa Cruz,Cucumis sativus
+604,7726,1,2.727,2.727,13/04/2018,Hidrogel,Santa Cruz,Citrullus lanatus
+605,7728,2,18.181,9.0905,13/04/2018,Hidrogel,Santa Cruz,Citrullus lanatus
+606,7729,2,5.908,2.954,06/04/2018,Hidrogel,Santa Cruz,Citrullus lanatus
+607,7730,1,1.818,1.818,06/04/2018,Hidrogel,Santa Cruz,Citrullus lanatus
+608,7739,1,2.272,2.272,13/04/2018,Hidrogel,Santa Cruz,Citrullus lanatus
+609,7743,1,2.272,2.272,13/04/2018,Hidrogel,Santa Cruz,Citrullus lanatus
+610,7750,1,1.363,1.363,13/04/2018,Hidrogel,Santa Cruz,Citrullus lanatus
+611,7762,1,3.409,3.409,06/04/2018,Hidrogel,Santa Cruz,Citrullus lanatus
+612,7764,1,1.363,1.363,13/04/2018,Hidrogel,Santa Cruz,Citrullus lanatus
+613,7765,1,2.272,2.272,06/04/2018,Control,Santa Cruz,Citrullus lanatus
+614,7768,1,1.818,1.818,06/04/2018,Control,Santa Cruz,Citrullus lanatus
+615,7769,1,8.181,8.181,06/04/2018,Control,Santa Cruz,Citrullus lanatus
+616,7770,2,10.453,5.2265,13/04/2018,Control,Santa Cruz,Citrullus lanatus
+617,7772,1,2.272,2.272,06/04/2018,Control,Santa Cruz,Citrullus lanatus
+618,7773,3,7.176,2.392,13/04/2018,Control,Santa Cruz,Citrullus lanatus
+619,7774,1,2.272,2.272,13/04/2018,Control,Santa Cruz,Citrullus lanatus
+620,7776,1,5,5,06/04/2018,Control,Santa Cruz,Citrullus lanatus
+621,7777,1,4.545,4.545,06/04/2018,Control,Santa Cruz,Citrullus lanatus
+622,7800,1,3.636,3.636,13/04/2018,Control,Santa Cruz,Citrullus lanatus
+623,7801,1,1.181,1.181,13/04/2018,Control,Santa Cruz,Citrullus lanatus
+624,7802,1,1.363,1.363,13/04/2018,Control,Santa Cruz,Citrullus lanatus
+671,12633,5,0.27,0.054,09/06/2021,hidrogel,Santa Cruz,Capsicum annuum
+676,12638,9,0.5,0.055555556,15/04/2021,control,Santa Cruz,Capsicum annuum
+677,12639,1,0.02,0.02,15/04/2021,control,Santa Cruz,Capsicum annuum
+678,12641,1,0.161,0.161,15/04/2021,control,Santa Cruz,Capsicum annuum
+679,12652,14,1.0467,0.074764286,09/06/2021,control,Santa Cruz,Capsicum annuum
+680,12653,2,0.2267,0.11335,15/04/2021,control,Santa Cruz,Capsicum annuum
+681,12654,9,0.89,0.098888889,09/06/2021,Growboxx,Santa Cruz,Capsicum annuum
+682,12659,1,0.1,0.1,13/04/2021,hidrogel,Santa Cruz,Capsicum annuum
+683,12660,3,0.18,0.06,13/04/2021,hidrogel,Santa Cruz,Capsicum annuum
+684,12663,2,0.03,0.015,13/04/2021,Growboxx,Santa Cruz,Capsicum annuum
+685,12679,4,0.16,0.04,13/04/2021,hidrogel,Santa Cruz,Capsicum annuum
+686,12687,2,0.075,0.0375,13/04/2021,control,Santa Cruz,Capsicum annuum
+691,12738,2,0.28,0.14,13/07/2021,Growboxx,Santa Cruz,Solanum lycopersicum
+692,12740,1,0.057,0.057,13/07/2021,Growboxx,Santa Cruz,Solanum lycopersicum
+693,12741,5,0.467,0.0934,13/07/2021,Growboxx,Santa Cruz,Solanum lycopersicum
+694,12745,1,0.073,0.073,01/07/2021,Growboxx,Santa Cruz,Solanum lycopersicum
+695,12747,1,0.053,0.053,13/07/2021,hidrogel,Santa Cruz,Solanum lycopersicum
+696,12750,2,0.112,0.056,13/07/2021,hidrogel,Santa Cruz,Solanum lycopersicum
+697,12751,2,0.262,0.131,24/06/2021,Growboxx,Santa Cruz,Solanum lycopersicum
+698,12755,1,0.071,0.071,24/06/2021,control,Santa Cruz,Solanum lycopersicum
+699,12756,2,0.816,0.408,13/07/2021,control,Santa Cruz,Solanum lycopersicum
+704,12766,6,0.586,0.097666667,13/07/2021,hidrogel,Santa Cruz,Solanum lycopersicum
+705,12767,3,0.333,0.111,24/06/2021,hidrogel,Santa Cruz,Solanum lycopersicum
+709,12777,2,0.179,0.0895,01/07/2021,Growboxx,Santa Cruz,Solanum lycopersicum
+710,12779,1,0.128,0.128,24/06/2021,control,Santa Cruz,Solanum lycopersicum
+711,12780,2,0.256,0.128,01/07/2021,control,Santa Cruz,Solanum lycopersicum
+712,12781,2,0.276,0.138,14/06/2021,control,Santa Cruz,Solanum lycopersicum
+713,12783,2,0.211,0.1055,13/07/2021,control,Santa Cruz,Solanum lycopersicum
+716,12787,4,0.394,0.0985,01/07/2021,Growboxx,Santa Cruz,Solanum lycopersicum
+717,12789,2,0.178,0.089,01/07/2021,Growboxx,Santa Cruz,Solanum lycopersicum
+718,12790,2,0.219,0.1095,14/06/2021,Growboxx,Santa Cruz,Solanum lycopersicum
+719,12791,2,0.224,0.112,14/06/2021,hidrogel,Santa Cruz,Solanum lycopersicum
+720,12792,2,0.204,0.102,14/06/2021,hidrogel,Santa Cruz,Solanum lycopersicum
+721,12794,8,0.96,0.12,01/07/2021,hidrogel,Santa Cruz,Solanum lycopersicum
+722,12795,1,0.14,0.14,01/07/2021,hidrogel,Santa Cruz,Solanum lycopersicum
+723,12798,7,0.792,0.113142857,13/07/2021,control,Santa Cruz,Solanum lycopersicum
+724,12799,2,0.195,0.0975,14/06/2021,hidrogel,Santa Cruz,Solanum lycopersicum
+725,12800,3,0.514,0.171333333,14/06/2021,hidrogel,Santa Cruz,Solanum lycopersicum
+726,12801,5,0.58,0.116,24/06/2021,control,Santa Cruz,Solanum lycopersicum
+727,12802,2,0.277,0.1385,24/06/2021,control,Santa Cruz,Solanum lycopersicum
+728,12803,2,0.064,0.032,14/06/2021,Growboxx,Santa Cruz,Solanum lycopersicum
+729,12805,9,0.784,0.087111111,24/06/2021,Growboxx,Santa Cruz,Solanum lycopersicum
+734,12812,7,0.943,0.134714286,14/06/2021,hidrogel,Santa Cruz,Solanum lycopersicum
+735,12813,9,0.545,0.060555556,24/06/2021,hidrogel,Santa Cruz,Solanum lycopersicum
+739,12821,2,0.07,0.035,14/06/2021,Growboxx,Santa Cruz,Solanum lycopersicum
+740,12823,1,0.136,0.136,24/06/2021,control,Santa Cruz,Solanum lycopersicum
+741,12824,23,2.48,0.107826087,31/05/2021,control,Santa Cruz,Solanum lycopersicum
+742,12825,2,0.4,0.2,31/05/2021,control,Santa Cruz,Solanum lycopersicum
+743,12826,5,0.56,0.112,31/05/2021,control,Santa Cruz,Solanum lycopersicum
+744,12827,4,0.34,0.085,24/06/2021,hidrogel,Santa Cruz,Solanum lycopersicum
+745,12828,8,1.115,0.139375,14/06/2021,hidrogel,Santa Cruz,Solanum lycopersicum
+746,12829,2,0.36,0.18,31/05/2021,hidrogel,Santa Cruz,Solanum lycopersicum
+747,12830,10,1.241,0.1241,24/06/2021,hidrogel,Santa Cruz,Solanum lycopersicum
+748,12831,4,0.514,0.1285,14/06/2021,hidrogel,Santa Cruz,Solanum lycopersicum
+749,12832,2,0.133,0.0665,24/06/2021,hidrogel,Santa Cruz,Solanum lycopersicum
+750,12834,2,0.182,0.091,24/06/2021,hidrogel,Santa Cruz,Solanum lycopersicum
+755,12839,1,0.141,0.141,24/06/2021,Growboxx,Santa Cruz,Solanum lycopersicum
+756,12842,2,0.176,0.088,14/06/2021,Growboxx,Santa Cruz,Solanum lycopersicum
+757,12844,10,1.449,0.1449,24/06/2021,control,Santa Cruz,Solanum lycopersicum
+758,12845,8,0.648,0.081,24/06/2021,control,Santa Cruz,Solanum lycopersicum
+759,12846,1,0.042,0.042,24/06/2021,control,Santa Cruz,Solanum lycopersicum
+760,12847,3,0.186,0.062,24/06/2021,Growboxx,Santa Cruz,Solanum lycopersicum
+761,12849,7,0.75,0.107142857,24/06/2021,Growboxx,Santa Cruz,Solanum lycopersicum
+762,12851,3,0.17,0.056666667,24/06/2021,control,Santa Cruz,Solanum lycopersicum
+763,12852,9,0.683,0.075888889,14/06/2021,control,Santa Cruz,Solanum lycopersicum
+764,12854,2,0.06,0.03,31/05/2021,control,Santa Cruz,Solanum lycopersicum
+765,12855,2,0.4,0.2,31/05/2021,hidrogel,Santa Cruz,Solanum lycopersicum
+766,12856,5,0.374,0.0748,24/06/2021,hidrogel,Santa Cruz,Solanum lycopersicum
+767,12858,1,0.128,0.128,24/06/2021,hidrogel,Santa Cruz,Solanum lycopersicum
+773,12871,1,0.12,0.12,31/05/2021,control,Santa Cruz,Capsicum annuum
+774,12872,2,0.3,0.15,31/05/2021,control,Santa Cruz,Capsicum annuum
+775,12873,3,0.37,0.123333333,31/05/2021,control,Santa Cruz,Capsicum annuum
+776,12878,2,0.17,0.085,31/05/2021,hidrogel,Santa Cruz,Capsicum annuum
+777,12887,3,0.25,0.083333333,31/05/2021,hidrogel,Santa Cruz,Capsicum annuum
+782,12895,2,0.076,0.038,14/06/2021,hidrogel,Santa Cruz,Capsicum annuum
+783,12906,1,0.08,0.08,31/05/2021,Growboxx,Santa Cruz,Capsicum annuum
+784,12910,1,0.12,0.12,31/05/2021,control,Santa Cruz,Capsicum annuum
+786,12919,1,0.09,0.09,31/05/2021,hidrogel,Santa Cruz,Capsicum annuum
+787,12920,1,0.15,0.15,31/05/2021,hidrogel,Santa Cruz,Capsicum annuum
+788,12922,1,0.1,0.1,09/06/2021,hidrogel,Santa Cruz,Capsicum annuum
+789,12923,1,0.05,0.05,09/06/2021,control,Santa Cruz,Capsicum annuum
+791,12932,6,0.237,0.0395,13/07/2021,hidrogel,Santa Cruz,Solanum lycopersicum
+792,12933,1,0.109,0.109,02/07/2021,hidrogel,Santa Cruz,Solanum lycopersicum
+793,12934,1,0.054,0.054,24/06/2021,hidrogel,Santa Cruz,Solanum lycopersicum
+794,12935,2,0.193,0.0965,24/06/2021,control,Santa Cruz,Solanum lycopersicum
+795,12936,6,0.452,0.075333333,13/07/2021,control,Santa Cruz,Solanum lycopersicum
+796,12940,2,0.164,0.082,02/07/2021,control,Santa Cruz,Solanum lycopersicum
+797,12941,6,0.617,0.102833333,13/07/2021,control,Santa Cruz,Solanum lycopersicum
+798,12942,1,0.14,0.14,09/06/2021,control,Santa Cruz,Solanum lycopersicum
+799,12944,5,0.376,0.0752,02/07/2021,Growboxx,Santa Cruz,Solanum lycopersicum
+800,12946,6,0.48,0.08,02/07/2021,Growboxx,Santa Cruz,Solanum lycopersicum
+805,12955,6,0.2705,0.045083333,24/06/2021,control,Santa Cruz,Solanum lycopersicum
+806,12956,3,0.205,0.068333333,24/06/2021,control,Santa Cruz,Solanum lycopersicum
+807,12957,1,0.03,0.03,02/07/2021,control,Santa Cruz,Solanum lycopersicum
+808,12958,4,0.146,0.0365,02/07/2021,control,Santa Cruz,Solanum lycopersicum
+809,12962,1,0.046,0.046,24/06/2021,Growboxx,Santa Cruz,Solanum lycopersicum
+811,12970,2,0.16,0.08,09/06/2021,hidrogel,Santa Cruz,Solanum lycopersicum
+812,12972,8,0.793,0.099125,13/07/2021,control,Santa Cruz,Solanum lycopersicum
+813,12973,5,0.316,0.0632,13/07/2021,hidrogel,Santa Cruz,Solanum lycopersicum
+815,13101,NA,NA,NA,14/09/2021,Growboxx,NA,Solanum Lycopersicum
+817,13103,NA,NA,NA,14/09/2021,Growboxx,NA,Solanum Lycopersicum
+828,13109,NA,NA,NA,14/09/2021,hidrogel,NA,Solanum Lycopersicum
+830,13109,NA,NA,NA,14/09/2021,Hidrogel,NA,Solanum Lycopersicum
+831,13113,NA,NA,NA,14/09/2021,control,NA,Solanum Lycopersicum
+833,13115,NA,NA,NA,14/09/2021,control,NA,Solanum Lycopersicum
+835,13116,NA,NA,NA,14/09/2021,control,NA,Solanum Lycopersicum
+837,13118,NA,NA,NA,14/09/2021,hidrogel,NA,Solanum Lycopersicum
+839,13118,NA,NA,NA,14/09/2021,Hidrogel,NA,Solanum Lycopersicum
+841,13119,NA,NA,NA,14/09/2021,Hidrogel,NA,Solanum Lycopersicum
+842,13120,NA,NA,NA,14/09/2021,hidrogel,NA,Solanum Lycopersicum
+844,13120,NA,NA,NA,14/09/2021,Hidrogel,NA,Solanum Lycopersicum
+845,13121,NA,NA,NA,14/09/2021,control,NA,Solanum Lycopersicum
+848,13124,NA,NA,NA,14/09/2021,control,NA,Solanum Lycopersicum
+849,13125,NA,NA,NA,14/09/2021,Growboxx,NA,Solanum Lycopersicum
+852,13126,NA,NA,NA,14/09/2021,Growboxx,NA,Solanum Lycopersicum
+853,13127,NA,NA,NA,14/09/2021,Growboxx,NA,Solanum Lycopersicum
+855,13128,NA,NA,NA,14/09/2021,Growboxx,NA,Solanum Lycopersicum
+879,13138,NA,NA,NA,14/09/2021,hidrogel,NA,Solanum Lycopersicum
+881,13138,NA,NA,NA,14/09/2021,Hidrogel,NA,Solanum Lycopersicum
+882,13139,NA,NA,NA,14/09/2021,hidrogel,NA,Solanum Lycopersicum
+884,13139,NA,NA,NA,14/09/2021,Hidrogel,NA,Solanum Lycopersicum
+885,13141,NA,NA,NA,14/09/2021,control,NA,Solanum Lycopersicum
+887,13142,NA,NA,NA,14/09/2021,control,NA,Solanum Lycopersicum
+889,13143,NA,NA,NA,14/09/2021,control,NA,Solanum Lycopersicum
+892,13144,NA,NA,NA,14/09/2021,control,NA,Solanum Lycopersicum
+894,13146,NA,NA,NA,14/09/2021,Growboxx,NA,Solanum Lycopersicum
+896,13149,NA,NA,NA,14/09/2021,Growboxx,NA,Solanum Lycopersicum
+898,13150,NA,NA,NA,14/09/2021,Growboxx,NA,Solanum Lycopersicum
+900,13151,NA,NA,NA,14/09/2021,Growboxx,NA,Solanum Lycopersicum
+902,13152,NA,NA,NA,14/09/2021,Growboxx,NA,Solanum Lycopersicum
+912,13158,NA,NA,NA,14/09/2021,control,NA,Solanum Lycopersicum
+914,13159,NA,NA,NA,14/09/2021,control,NA,Solanum Lycopersicum
+916,13160,NA,NA,NA,14/09/2021,control,NA,Solanum Lycopersicum
+918,13161,NA,NA,NA,14/09/2021,Hidrogel,NA,Solanum Lycopersicum
+920,13162,NA,NA,NA,14/09/2021,Hidrogel,NA,Solanum Lycopersicum
+922,13163,NA,NA,NA,14/09/2021,Hidrogel,NA,Solanum Lycopersicum
+924,13164,NA,NA,NA,14/09/2021,Hidrogel,NA,Solanum Lycopersicum
+926,13313,3,0.156,0.052,13/07/2021,hidrogel,Cristobal,Solanum lycopersicum
+927,13316,4,0.433,0.10825,13/07/2021,Growboxx,Cristobal,Solanum lycopersicum
+930,13325,1,0.074,0.074,13/07/2021,control,Cristobal,Solanum lycopersicum
+931,13326,1,0.057,0.057,13/07/2021,control,Cristobal,Solanum lycopersicum
+932,13332,2,0.146,0.073,13/07/2021,hidrogel,Cristobal,Solanum lycopersicum
+933,13344,3,0.221,0.073666667,13/07/2021,control,Cristobal,Solanum lycopersicum
+934,13347,1,0.152,0.152,13/07/2021,control,Cristobal,Solanum lycopersicum
+935,13380,4,0.417,0.10425,13/07/2021,control,Cristobal,Capsicum annuum
+936,13381,2,0.154,0.077,13/07/2021,control,Cristobal,Capsicum annuum
+937,13382,1,0.121,0.121,13/07/2021,control,Cristobal,Capsicum annuum
+938,13383,3,0.35,0.116666667,13/07/2021,control,Cristobal,Capsicum annuum
+939,13384,2,0.228,0.114,13/07/2021,control,Cristobal,Solanum lycopersicum
+940,13387,1,0.082,0.082,13/07/2021,control,Cristobal,Solanum lycopersicum
+941,13389,1,0.105,0.105,13/07/2021,hidrogel,Cristobal,Capsicum annuum
+942,13390,4,0.377,0.09425,13/07/2021,hidrogel,Cristobal,Capsicum annuum
+943,13394,2,0.221,0.1105,13/07/2021,hidrogel,Cristobal,Capsicum annuum
+944,13400,1,0.069,0.069,13/07/2021,Growboxx,Cristobal,Capsicum annuum
+945,13404,3,0.228,0.076,13/07/2021,hidrogel,Cristobal,Capsicum annuum
+946,13408,1,0.103,0.103,13/07/2021,control,Cristobal,Capsicum annuum
+947,13411,1,0.091,0.091,13/07/2021,hidrogel,Cristobal,Capsicum annuum
+948,13413,1,0.108,0.108,13/07/2021,control,Cristobal,Capsicum annuum
+949,13417,3,0.255,0.085,13/07/2021,control,Cristobal,Capsicum annuum
+952,13532,1,0.103,0.103,14/07/2021,hidrogel,Cristobal,Solanum lycopersicum
+954,13543,2,0.225,0.1125,14/07/2021,control,Cristobal,Solanum lycopersicum
+955,13563,15,0.779,0.051933333,14/07/2021,control,Cristobal,Solanum lycopersicum
+958,13592,2,0.228,0.114,14/07/2021,Growboxx,Cristobal,Capsicum annuum
+959,13593,1,0.042,0.042,14/07/2021,Growboxx,Cristobal,Capsicum annuum
+960,13595,1,0.053,0.053,14/07/2021,Growboxx,Cristobal,Capsicum annuum
+961,13954,3,0.193,0.064333333,01/10/2021,Growboxx,Floreana,Solanum Lycopersicum
+962,13955,3,0.119,0.039666667,01/10/2021,Growboxx,Floreana,Solanum Lycopersicum
+963,13956,3,0.158,0.052666667,01/10/2021,Growboxx,Floreana,Solanum Lycopersicum
+964,13957,3,0.19,0.063333333,01/10/2021,Growboxx,Floreana,Solanum Lycopersicum
+965,13958,3,0.134,0.044666667,01/10/2021,hidrogel,Floreana,Solanum Lycopersicum
+966,13958,3,0.134,0.044666667,01/10/2021,Hidrogel,Floreana,Solanum Lycopersicum
+967,13959,3,0.183,0.061,01/10/2021,hidrogel,Floreana,Solanum Lycopersicum
+968,13959,3,0.183,0.061,01/10/2021,Hidrogel,Floreana,Solanum Lycopersicum
+969,13960,3,0.175,0.058333333,01/10/2021,hidrogel,Floreana,Solanum Lycopersicum
+970,13960,3,0.175,0.058333333,01/10/2021,Hidrogel,Floreana,Solanum Lycopersicum
+971,13961,3,0.137,0.045666667,01/10/2021,hidrogel,Floreana,Solanum Lycopersicum
+972,13961,3,0.137,0.045666667,01/10/2021,Hidrogel,Floreana,Solanum Lycopersicum
+973,13962,3,0.158,0.052666667,01/10/2021,hidrogel,Floreana,Solanum Lycopersicum
+974,13962,3,0.158,0.052666667,01/10/2021,control,Floreana,Solanum Lycopersicum
+975,13963,3,0.187,0.062333333,01/10/2021,control,Floreana,Solanum Lycopersicum
+976,13964,3,0.156,0.052,01/10/2021,control,Floreana,Solanum Lycopersicum
+977,13965,3,0.258,0.086,01/10/2021,control,Floreana,Solanum Lycopersicum
+986,13970,3,0.219,0.073,01/10/2021,control,Floreana,Solanum Lycopersicum
+987,13971,3,0.252,0.084,01/10/2021,control,Floreana,Solanum Lycopersicum
+988,13972,2,0.16,0.08,14/09/2021,control,Floreana,Solanum Lycopersicum
+993,13978,3,0.176,0.058666667,01/10/2021,hidrogel,Floreana,Solanum Lycopersicum
+994,13978,3,0.176,0.058666667,01/10/2021,Hidrogel,Floreana,Solanum Lycopersicum
+995,13979,3,0.126,0.042,01/10/2021,hidrogel,Floreana,Solanum Lycopersicum
+996,13979,3,0.126,0.042,01/10/2021,Hidrogel,Floreana,Solanum Lycopersicum
+997,13980,3,0.146,0.048666667,01/10/2021,hidrogel,Floreana,Solanum Lycopersicum
+998,13980,3,0.146,0.048666667,01/10/2021,Hidrogel,Floreana,Solanum Lycopersicum
+999,13981,3,0.223,0.074333333,01/10/2021,hidrogel,Floreana,Solanum Lycopersicum
+1000,13981,3,0.223,0.074333333,01/10/2021,Hidrogel,Floreana,Solanum Lycopersicum
+1001,13982,3,0.167,0.055666667,01/10/2021,Growboxx,Floreana,Solanum Lycopersicum
+1002,13983,3,0.248,0.082666667,01/10/2021,Growboxx,Floreana,Solanum Lycopersicum
+1003,13984,3,0.225,0.075,01/10/2021,Growboxx,Floreana,Solanum Lycopersicum
+1004,13985,3,0.144,0.048,01/10/2021,Growboxx,Floreana,Solanum Lycopersicum
+1011,13990,3,0.24,0.08,01/10/2021,hidrogel,Floreana,Solanum Lycopersicum
+1012,13990,3,0.24,0.08,01/10/2021,Hidrogel,Floreana,Solanum Lycopersicum
+1013,13991,3,0.222,0.074,01/10/2021,hidrogel,Floreana,Solanum Lycopersicum
+1014,13991,3,0.222,0.074,01/10/2021,Hidrogel,Floreana,Solanum Lycopersicum
+1015,13992,3,0.207,0.069,01/10/2021,hidrogel,Floreana,Solanum Lycopersicum
+1016,13992,3,0.207,0.069,01/10/2021,Hidrogel,Floreana,Solanum Lycopersicum
+1017,13993,3,0.255,0.085,01/10/2021,hidrogel,Floreana,Solanum Lycopersicum
+1018,13993,3,0.255,0.085,01/10/2021,Hidrogel,Floreana,Solanum Lycopersicum
+1019,13994,3,0.167,0.055666667,01/10/2021,Growboxx,Floreana,Solanum Lycopersicum
+1020,13995,3,0.218,0.072666667,01/10/2021,Growboxx,Floreana,Solanum Lycopersicum
+1021,13996,3,0.174,0.058,01/10/2021,Growboxx,Floreana,Solanum Lycopersicum
+1022,13997,3,0.188,0.062666667,01/10/2021,Growboxx,Floreana,Solanum Lycopersicum
+1023,13998,3,0.235,0.078333333,01/10/2021,control,Floreana,Solanum Lycopersicum
+1024,13999,3,0.268,0.089333333,01/10/2021,control,Floreana,Solanum Lycopersicum
+1025,14000,3,0.219,0.073,01/10/2021,control,Floreana,Solanum Lycopersicum
+1026,14001,3,0.238,0.079333333,01/10/2021,control,Floreana,Solanum Lycopersicum
+1027,14002,3,0.253,0.084333333,01/10/2021,control,Floreana,Solanum Lycopersicum
+1028,14003,3,0.247,0.082333333,01/10/2021,control,Floreana,Solanum Lycopersicum
+1029,14004,3,0.316,0.105333333,01/10/2021,control,Floreana,Solanum Lycopersicum
+1030,14005,3,0.283,0.094333333,01/10/2021,control,Floreana,Solanum Lycopersicum
+1031,14006,3,0.225,0.075,01/10/2021,Growboxx,Floreana,Solanum Lycopersicum
+1032,14007,3,0.231,0.077,01/10/2021,Growboxx,Floreana,Solanum Lycopersicum
+1033,14008,3,0.303,0.101,01/10/2021,Growboxx,Floreana,Solanum Lycopersicum
+1034,14009,3,0.246,0.082,01/10/2021,Growboxx,Floreana,Solanum Lycopersicum
+1035,14010,3,0.176,0.058666667,01/10/2021,hidrogel,Floreana,Solanum Lycopersicum
+1036,14010,3,0.176,0.058666667,01/10/2021,Hidrogel,Floreana,Solanum Lycopersicum
+1037,14012,3,0.247,0.082333333,01/10/2021,hidrogel,Floreana,Solanum Lycopersicum
+1038,14012,3,0.247,0.082333333,01/10/2021,Hidrogel,Floreana,Solanum Lycopersicum
+1039,14013,3,0.271,0.090333333,01/10/2021,hidrogel,Floreana,Solanum Lycopersicum
+1040,14013,3,0.271,0.090333333,01/10/2021,Hidrogel,Floreana,Solanum Lycopersicum
